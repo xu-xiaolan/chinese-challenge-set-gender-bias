@@ -58,7 +58,7 @@ If you use this dataset, please cite:
 @inproceedings{[yourcitationkey],
   title     = {A Chinese Challenge Set to Assess Gender Bias in Automated Translation},
   author    = {[Author names]},
-  booktitle = {Proceedings of the 25th Annual Conference of the European Association for Machine Translation (EAMT 2026)},
+  booktitle = {Proceedings of },
   year      = {2026}
 }
 ```
