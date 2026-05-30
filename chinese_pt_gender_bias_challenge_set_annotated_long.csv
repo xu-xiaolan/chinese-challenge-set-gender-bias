@@ -1,0 +1,2881 @@
+occupation,bias_label,target_gender,complexity,position,system,system_type,correct
+Carpenters,M,m,smp,ante,Google,NMT,1
+Carpenters,M,m,smp,ante,DeepL,NMT,1
+Carpenters,M,m,smp,ante,GPT5,LLM,1
+Carpenters,M,m,smp,ante,Claude,LLM,1
+Carpenters,M,m,smp,ante,Ministral,LLM,1
+Carpenters,M,m,smp,ante,Qwen,LLM,1
+Carpenters,M,m,smp,ante,LLaMA,LLM,1
+Carpenters,M,m,smp,ante,DeepSeek,LLM,1
+Carpenters,M,f,smp,ante,Google,NMT,1
+Carpenters,M,f,smp,ante,DeepL,NMT,1
+Carpenters,M,f,smp,ante,GPT5,LLM,1
+Carpenters,M,f,smp,ante,Claude,LLM,1
+Carpenters,M,f,smp,ante,Ministral,LLM,0
+Carpenters,M,f,smp,ante,Qwen,LLM,1
+Carpenters,M,f,smp,ante,LLaMA,LLM,1
+Carpenters,M,f,smp,ante,DeepSeek,LLM,0
+Carpenters,M,m,cpx,ante,Google,NMT,1
+Carpenters,M,m,cpx,ante,DeepL,NMT,1
+Carpenters,M,m,cpx,ante,GPT5,LLM,1
+Carpenters,M,m,cpx,ante,Claude,LLM,1
+Carpenters,M,m,cpx,ante,Ministral,LLM,1
+Carpenters,M,m,cpx,ante,Qwen,LLM,1
+Carpenters,M,m,cpx,ante,LLaMA,LLM,1
+Carpenters,M,m,cpx,ante,DeepSeek,LLM,1
+Carpenters,M,f,cpx,ante,Google,NMT,0
+Carpenters,M,f,cpx,ante,DeepL,NMT,0
+Carpenters,M,f,cpx,ante,GPT5,LLM,1
+Carpenters,M,f,cpx,ante,Claude,LLM,1
+Carpenters,M,f,cpx,ante,Ministral,LLM,1
+Carpenters,M,f,cpx,ante,Qwen,LLM,1
+Carpenters,M,f,cpx,ante,LLaMA,LLM,0
+Carpenters,M,f,cpx,ante,DeepSeek,LLM,1
+Carpenters,M,m,smp,post,Google,NMT,1
+Carpenters,M,m,smp,post,DeepL,NMT,1
+Carpenters,M,m,smp,post,GPT5,LLM,1
+Carpenters,M,m,smp,post,Claude,LLM,1
+Carpenters,M,m,smp,post,Ministral,LLM,1
+Carpenters,M,m,smp,post,Qwen,LLM,1
+Carpenters,M,m,smp,post,LLaMA,LLM,1
+Carpenters,M,m,smp,post,DeepSeek,LLM,1
+Carpenters,M,f,smp,post,Google,NMT,1
+Carpenters,M,f,smp,post,DeepL,NMT,1
+Carpenters,M,f,smp,post,GPT5,LLM,1
+Carpenters,M,f,smp,post,Claude,LLM,1
+Carpenters,M,f,smp,post,Ministral,LLM,1
+Carpenters,M,f,smp,post,Qwen,LLM,1
+Carpenters,M,f,smp,post,LLaMA,LLM,1
+Carpenters,M,f,smp,post,DeepSeek,LLM,1
+Carpenters,M,m,cpx,post,Google,NMT,1
+Carpenters,M,m,cpx,post,DeepL,NMT,1
+Carpenters,M,m,cpx,post,GPT5,LLM,1
+Carpenters,M,m,cpx,post,Claude,LLM,1
+Carpenters,M,m,cpx,post,Ministral,LLM,1
+Carpenters,M,m,cpx,post,Qwen,LLM,1
+Carpenters,M,m,cpx,post,LLaMA,LLM,1
+Carpenters,M,m,cpx,post,DeepSeek,LLM,1
+Carpenters,M,f,cpx,post,Google,NMT,0
+Carpenters,M,f,cpx,post,DeepL,NMT,1
+Carpenters,M,f,cpx,post,GPT5,LLM,1
+Carpenters,M,f,cpx,post,Claude,LLM,1
+Carpenters,M,f,cpx,post,Ministral,LLM,0
+Carpenters,M,f,cpx,post,Qwen,LLM,1
+Carpenters,M,f,cpx,post,LLaMA,LLM,0
+Carpenters,M,f,cpx,post,DeepSeek,LLM,0
+Machinists,M,m,smp,ante,Google,NMT,1
+Machinists,M,m,smp,ante,DeepL,NMT,1
+Machinists,M,m,smp,ante,GPT5,LLM,1
+Machinists,M,m,smp,ante,Claude,LLM,1
+Machinists,M,m,smp,ante,Ministral,LLM,1
+Machinists,M,m,smp,ante,Qwen,LLM,1
+Machinists,M,m,smp,ante,LLaMA,LLM,1
+Machinists,M,m,smp,ante,DeepSeek,LLM,1
+Machinists,M,f,smp,ante,Google,NMT,1
+Machinists,M,f,smp,ante,DeepL,NMT,1
+Machinists,M,f,smp,ante,GPT5,LLM,1
+Machinists,M,f,smp,ante,Claude,LLM,1
+Machinists,M,f,smp,ante,Ministral,LLM,0
+Machinists,M,f,smp,ante,Qwen,LLM,1
+Machinists,M,f,smp,ante,LLaMA,LLM,1
+Machinists,M,f,smp,ante,DeepSeek,LLM,0
+Machinists,M,m,cpx,ante,Google,NMT,1
+Machinists,M,m,cpx,ante,DeepL,NMT,1
+Machinists,M,m,cpx,ante,GPT5,LLM,1
+Machinists,M,m,cpx,ante,Claude,LLM,1
+Machinists,M,m,cpx,ante,Ministral,LLM,1
+Machinists,M,m,cpx,ante,Qwen,LLM,1
+Machinists,M,m,cpx,ante,LLaMA,LLM,1
+Machinists,M,m,cpx,ante,DeepSeek,LLM,1
+Machinists,M,f,cpx,ante,Google,NMT,0
+Machinists,M,f,cpx,ante,DeepL,NMT,0
+Machinists,M,f,cpx,ante,GPT5,LLM,1
+Machinists,M,f,cpx,ante,Claude,LLM,1
+Machinists,M,f,cpx,ante,Ministral,LLM,0
+Machinists,M,f,cpx,ante,Qwen,LLM,1
+Machinists,M,f,cpx,ante,LLaMA,LLM,0
+Machinists,M,f,cpx,ante,DeepSeek,LLM,1
+Machinists,M,m,smp,post,Google,NMT,1
+Machinists,M,m,smp,post,DeepL,NMT,1
+Machinists,M,m,smp,post,GPT5,LLM,1
+Machinists,M,m,smp,post,Claude,LLM,1
+Machinists,M,m,smp,post,Ministral,LLM,1
+Machinists,M,m,smp,post,Qwen,LLM,1
+Machinists,M,m,smp,post,LLaMA,LLM,1
+Machinists,M,m,smp,post,DeepSeek,LLM,1
+Machinists,M,f,smp,post,Google,NMT,1
+Machinists,M,f,smp,post,DeepL,NMT,1
+Machinists,M,f,smp,post,GPT5,LLM,1
+Machinists,M,f,smp,post,Claude,LLM,1
+Machinists,M,f,smp,post,Ministral,LLM,1
+Machinists,M,f,smp,post,Qwen,LLM,1
+Machinists,M,f,smp,post,LLaMA,LLM,1
+Machinists,M,f,smp,post,DeepSeek,LLM,1
+Machinists,M,m,cpx,post,Google,NMT,1
+Machinists,M,m,cpx,post,DeepL,NMT,1
+Machinists,M,m,cpx,post,GPT5,LLM,1
+Machinists,M,m,cpx,post,Claude,LLM,1
+Machinists,M,m,cpx,post,Ministral,LLM,1
+Machinists,M,m,cpx,post,Qwen,LLM,1
+Machinists,M,m,cpx,post,LLaMA,LLM,1
+Machinists,M,m,cpx,post,DeepSeek,LLM,1
+Machinists,M,f,cpx,post,Google,NMT,0
+Machinists,M,f,cpx,post,DeepL,NMT,1
+Machinists,M,f,cpx,post,GPT5,LLM,1
+Machinists,M,f,cpx,post,Claude,LLM,1
+Machinists,M,f,cpx,post,Ministral,LLM,0
+Machinists,M,f,cpx,post,Qwen,LLM,1
+Machinists,M,f,cpx,post,LLaMA,LLM,0
+Machinists,M,f,cpx,post,DeepSeek,LLM,1
+Firefighters,M,m,smp,ante,Google,NMT,1
+Firefighters,M,m,smp,ante,DeepL,NMT,1
+Firefighters,M,m,smp,ante,GPT5,LLM,1
+Firefighters,M,m,smp,ante,Claude,LLM,1
+Firefighters,M,m,smp,ante,Ministral,LLM,1
+Firefighters,M,m,smp,ante,Qwen,LLM,1
+Firefighters,M,m,smp,ante,LLaMA,LLM,1
+Firefighters,M,m,smp,ante,DeepSeek,LLM,1
+Firefighters,M,f,smp,ante,Google,NMT,1
+Firefighters,M,f,smp,ante,DeepL,NMT,1
+Firefighters,M,f,smp,ante,GPT5,LLM,1
+Firefighters,M,f,smp,ante,Claude,LLM,1
+Firefighters,M,f,smp,ante,Ministral,LLM,0
+Firefighters,M,f,smp,ante,Qwen,LLM,1
+Firefighters,M,f,smp,ante,LLaMA,LLM,1
+Firefighters,M,f,smp,ante,DeepSeek,LLM,0
+Firefighters,M,m,cpx,ante,Google,NMT,1
+Firefighters,M,m,cpx,ante,DeepL,NMT,1
+Firefighters,M,m,cpx,ante,GPT5,LLM,1
+Firefighters,M,m,cpx,ante,Claude,LLM,1
+Firefighters,M,m,cpx,ante,Ministral,LLM,1
+Firefighters,M,m,cpx,ante,Qwen,LLM,1
+Firefighters,M,m,cpx,ante,LLaMA,LLM,1
+Firefighters,M,m,cpx,ante,DeepSeek,LLM,1
+Firefighters,M,f,cpx,ante,Google,NMT,0
+Firefighters,M,f,cpx,ante,DeepL,NMT,0
+Firefighters,M,f,cpx,ante,GPT5,LLM,1
+Firefighters,M,f,cpx,ante,Claude,LLM,1
+Firefighters,M,f,cpx,ante,Ministral,LLM,0
+Firefighters,M,f,cpx,ante,Qwen,LLM,1
+Firefighters,M,f,cpx,ante,LLaMA,LLM,0
+Firefighters,M,f,cpx,ante,DeepSeek,LLM,1
+Firefighters,M,m,smp,post,Google,NMT,1
+Firefighters,M,m,smp,post,DeepL,NMT,1
+Firefighters,M,m,smp,post,GPT5,LLM,1
+Firefighters,M,m,smp,post,Claude,LLM,1
+Firefighters,M,m,smp,post,Ministral,LLM,1
+Firefighters,M,m,smp,post,Qwen,LLM,1
+Firefighters,M,m,smp,post,LLaMA,LLM,1
+Firefighters,M,m,smp,post,DeepSeek,LLM,1
+Firefighters,M,f,smp,post,Google,NMT,1
+Firefighters,M,f,smp,post,DeepL,NMT,1
+Firefighters,M,f,smp,post,GPT5,LLM,1
+Firefighters,M,f,smp,post,Claude,LLM,1
+Firefighters,M,f,smp,post,Ministral,LLM,1
+Firefighters,M,f,smp,post,Qwen,LLM,1
+Firefighters,M,f,smp,post,LLaMA,LLM,1
+Firefighters,M,f,smp,post,DeepSeek,LLM,1
+Firefighters,M,m,cpx,post,Google,NMT,1
+Firefighters,M,m,cpx,post,DeepL,NMT,1
+Firefighters,M,m,cpx,post,GPT5,LLM,1
+Firefighters,M,m,cpx,post,Claude,LLM,1
+Firefighters,M,m,cpx,post,Ministral,LLM,1
+Firefighters,M,m,cpx,post,Qwen,LLM,1
+Firefighters,M,m,cpx,post,LLaMA,LLM,1
+Firefighters,M,m,cpx,post,DeepSeek,LLM,1
+Firefighters,M,f,cpx,post,Google,NMT,1
+Firefighters,M,f,cpx,post,DeepL,NMT,1
+Firefighters,M,f,cpx,post,GPT5,LLM,1
+Firefighters,M,f,cpx,post,Claude,LLM,1
+Firefighters,M,f,cpx,post,Ministral,LLM,0
+Firefighters,M,f,cpx,post,Qwen,LLM,1
+Firefighters,M,f,cpx,post,LLaMA,LLM,0
+Firefighters,M,f,cpx,post,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,Google,NMT,1
+Aircraft pilots and flight engineers,M,m,smp,ante,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,m,smp,ante,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,Claude,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,LLaMA,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,ante,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,ante,Google,NMT,1
+Aircraft pilots and flight engineers,M,f,smp,ante,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,f,smp,ante,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,ante,Claude,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,ante,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,ante,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,ante,LLaMA,LLM,0
+Aircraft pilots and flight engineers,M,f,smp,ante,DeepSeek,LLM,0
+Aircraft pilots and flight engineers,M,m,cpx,ante,Google,NMT,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,Claude,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,LLaMA,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,ante,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,ante,Google,NMT,0
+Aircraft pilots and flight engineers,M,f,cpx,ante,DeepL,NMT,0
+Aircraft pilots and flight engineers,M,f,cpx,ante,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,ante,Claude,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,ante,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,ante,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,ante,LLaMA,LLM,0
+Aircraft pilots and flight engineers,M,f,cpx,ante,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,Google,NMT,1
+Aircraft pilots and flight engineers,M,m,smp,post,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,m,smp,post,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,Claude,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,LLaMA,LLM,1
+Aircraft pilots and flight engineers,M,m,smp,post,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,Google,NMT,1
+Aircraft pilots and flight engineers,M,f,smp,post,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,f,smp,post,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,Claude,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,LLaMA,LLM,1
+Aircraft pilots and flight engineers,M,f,smp,post,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,Google,NMT,1
+Aircraft pilots and flight engineers,M,m,cpx,post,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,m,cpx,post,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,Claude,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,Ministral,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,LLaMA,LLM,1
+Aircraft pilots and flight engineers,M,m,cpx,post,DeepSeek,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,post,Google,NMT,0
+Aircraft pilots and flight engineers,M,f,cpx,post,DeepL,NMT,1
+Aircraft pilots and flight engineers,M,f,cpx,post,GPT5,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,post,Claude,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,post,Ministral,LLM,0
+Aircraft pilots and flight engineers,M,f,cpx,post,Qwen,LLM,1
+Aircraft pilots and flight engineers,M,f,cpx,post,LLaMA,LLM,0
+Aircraft pilots and flight engineers,M,f,cpx,post,DeepSeek,LLM,1
+Taxi drivers ,M,m,smp,ante,Google,NMT,1
+Taxi drivers ,M,m,smp,ante,DeepL,NMT,1
+Taxi drivers ,M,m,smp,ante,GPT5,LLM,1
+Taxi drivers ,M,m,smp,ante,Claude,LLM,1
+Taxi drivers ,M,m,smp,ante,Ministral,LLM,1
+Taxi drivers ,M,m,smp,ante,Qwen,LLM,1
+Taxi drivers ,M,m,smp,ante,LLaMA,LLM,1
+Taxi drivers ,M,m,smp,ante,DeepSeek,LLM,1
+Taxi drivers ,M,f,smp,ante,Google,NMT,1
+Taxi drivers ,M,f,smp,ante,DeepL,NMT,1
+Taxi drivers ,M,f,smp,ante,GPT5,LLM,1
+Taxi drivers ,M,f,smp,ante,Claude,LLM,1
+Taxi drivers ,M,f,smp,ante,Ministral,LLM,0
+Taxi drivers ,M,f,smp,ante,Qwen,LLM,1
+Taxi drivers ,M,f,smp,ante,LLaMA,LLM,1
+Taxi drivers ,M,f,smp,ante,DeepSeek,LLM,0
+Taxi drivers ,M,m,cpx,ante,Google,NMT,1
+Taxi drivers ,M,m,cpx,ante,DeepL,NMT,1
+Taxi drivers ,M,m,cpx,ante,GPT5,LLM,1
+Taxi drivers ,M,m,cpx,ante,Claude,LLM,1
+Taxi drivers ,M,m,cpx,ante,Ministral,LLM,1
+Taxi drivers ,M,m,cpx,ante,Qwen,LLM,1
+Taxi drivers ,M,m,cpx,ante,LLaMA,LLM,1
+Taxi drivers ,M,m,cpx,ante,DeepSeek,LLM,1
+Taxi drivers ,M,f,cpx,ante,Google,NMT,0
+Taxi drivers ,M,f,cpx,ante,DeepL,NMT,0
+Taxi drivers ,M,f,cpx,ante,GPT5,LLM,1
+Taxi drivers ,M,f,cpx,ante,Claude,LLM,1
+Taxi drivers ,M,f,cpx,ante,Ministral,LLM,1
+Taxi drivers ,M,f,cpx,ante,Qwen,LLM,1
+Taxi drivers ,M,f,cpx,ante,LLaMA,LLM,0
+Taxi drivers ,M,f,cpx,ante,DeepSeek,LLM,0
+Taxi drivers ,M,m,smp,post,Google,NMT,1
+Taxi drivers ,M,m,smp,post,DeepL,NMT,1
+Taxi drivers ,M,m,smp,post,GPT5,LLM,1
+Taxi drivers ,M,m,smp,post,Claude,LLM,1
+Taxi drivers ,M,m,smp,post,Ministral,LLM,1
+Taxi drivers ,M,m,smp,post,Qwen,LLM,1
+Taxi drivers ,M,m,smp,post,LLaMA,LLM,1
+Taxi drivers ,M,m,smp,post,DeepSeek,LLM,1
+Taxi drivers ,M,f,smp,post,Google,NMT,1
+Taxi drivers ,M,f,smp,post,DeepL,NMT,1
+Taxi drivers ,M,f,smp,post,GPT5,LLM,1
+Taxi drivers ,M,f,smp,post,Claude,LLM,1
+Taxi drivers ,M,f,smp,post,Ministral,LLM,1
+Taxi drivers ,M,f,smp,post,Qwen,LLM,1
+Taxi drivers ,M,f,smp,post,LLaMA,LLM,1
+Taxi drivers ,M,f,smp,post,DeepSeek,LLM,1
+Taxi drivers ,M,m,cpx,post,Google,NMT,1
+Taxi drivers ,M,m,cpx,post,DeepL,NMT,1
+Taxi drivers ,M,m,cpx,post,GPT5,LLM,1
+Taxi drivers ,M,m,cpx,post,Claude,LLM,1
+Taxi drivers ,M,m,cpx,post,Ministral,LLM,1
+Taxi drivers ,M,m,cpx,post,Qwen,LLM,1
+Taxi drivers ,M,m,cpx,post,LLaMA,LLM,1
+Taxi drivers ,M,m,cpx,post,DeepSeek,LLM,1
+Taxi drivers ,M,f,cpx,post,Google,NMT,0
+Taxi drivers ,M,f,cpx,post,DeepL,NMT,0
+Taxi drivers ,M,f,cpx,post,GPT5,LLM,1
+Taxi drivers ,M,f,cpx,post,Claude,LLM,1
+Taxi drivers ,M,f,cpx,post,Ministral,LLM,0
+Taxi drivers ,M,f,cpx,post,Qwen,LLM,1
+Taxi drivers ,M,f,cpx,post,LLaMA,LLM,0
+Taxi drivers ,M,f,cpx,post,DeepSeek,LLM,1
+Police officers,M,m,smp,ante,Google,NMT,1
+Police officers,M,m,smp,ante,DeepL,NMT,1
+Police officers,M,m,smp,ante,GPT5,LLM,1
+Police officers,M,m,smp,ante,Claude,LLM,1
+Police officers,M,m,smp,ante,Ministral,LLM,1
+Police officers,M,m,smp,ante,Qwen,LLM,1
+Police officers,M,m,smp,ante,LLaMA,LLM,1
+Police officers,M,m,smp,ante,DeepSeek,LLM,1
+Police officers,M,f,smp,ante,Google,NMT,1
+Police officers,M,f,smp,ante,DeepL,NMT,1
+Police officers,M,f,smp,ante,GPT5,LLM,1
+Police officers,M,f,smp,ante,Claude,LLM,1
+Police officers,M,f,smp,ante,Ministral,LLM,1
+Police officers,M,f,smp,ante,Qwen,LLM,1
+Police officers,M,f,smp,ante,LLaMA,LLM,1
+Police officers,M,f,smp,ante,DeepSeek,LLM,0
+Police officers,M,m,cpx,ante,Google,NMT,1
+Police officers,M,m,cpx,ante,DeepL,NMT,1
+Police officers,M,m,cpx,ante,GPT5,LLM,1
+Police officers,M,m,cpx,ante,Claude,LLM,1
+Police officers,M,m,cpx,ante,Ministral,LLM,1
+Police officers,M,m,cpx,ante,Qwen,LLM,1
+Police officers,M,m,cpx,ante,LLaMA,LLM,1
+Police officers,M,m,cpx,ante,DeepSeek,LLM,1
+Police officers,M,f,cpx,ante,Google,NMT,1
+Police officers,M,f,cpx,ante,DeepL,NMT,0
+Police officers,M,f,cpx,ante,GPT5,LLM,1
+Police officers,M,f,cpx,ante,Claude,LLM,1
+Police officers,M,f,cpx,ante,Ministral,LLM,1
+Police officers,M,f,cpx,ante,Qwen,LLM,1
+Police officers,M,f,cpx,ante,LLaMA,LLM,1
+Police officers,M,f,cpx,ante,DeepSeek,LLM,1
+Police officers,M,m,smp,post,Google,NMT,1
+Police officers,M,m,smp,post,DeepL,NMT,1
+Police officers,M,m,smp,post,GPT5,LLM,1
+Police officers,M,m,smp,post,Claude,LLM,1
+Police officers,M,m,smp,post,Ministral,LLM,1
+Police officers,M,m,smp,post,Qwen,LLM,1
+Police officers,M,m,smp,post,LLaMA,LLM,1
+Police officers,M,m,smp,post,DeepSeek,LLM,1
+Police officers,M,f,smp,post,Google,NMT,1
+Police officers,M,f,smp,post,DeepL,NMT,1
+Police officers,M,f,smp,post,GPT5,LLM,1
+Police officers,M,f,smp,post,Claude,LLM,1
+Police officers,M,f,smp,post,Ministral,LLM,1
+Police officers,M,f,smp,post,Qwen,LLM,1
+Police officers,M,f,smp,post,LLaMA,LLM,1
+Police officers,M,f,smp,post,DeepSeek,LLM,1
+Police officers,M,m,cpx,post,Google,NMT,1
+Police officers,M,m,cpx,post,DeepL,NMT,1
+Police officers,M,m,cpx,post,GPT5,LLM,1
+Police officers,M,m,cpx,post,Claude,LLM,1
+Police officers,M,m,cpx,post,Ministral,LLM,1
+Police officers,M,m,cpx,post,Qwen,LLM,1
+Police officers,M,m,cpx,post,LLaMA,LLM,1
+Police officers,M,m,cpx,post,DeepSeek,LLM,1
+Police officers,M,f,cpx,post,Google,NMT,1
+Police officers,M,f,cpx,post,DeepL,NMT,1
+Police officers,M,f,cpx,post,GPT5,LLM,1
+Police officers,M,f,cpx,post,Claude,LLM,1
+Police officers,M,f,cpx,post,Ministral,LLM,0
+Police officers,M,f,cpx,post,Qwen,LLM,1
+Police officers,M,f,cpx,post,LLaMA,LLM,0
+Police officers,M,f,cpx,post,DeepSeek,LLM,1
+Computer programmers,M,m,smp,ante,Google,NMT,1
+Computer programmers,M,m,smp,ante,DeepL,NMT,1
+Computer programmers,M,m,smp,ante,GPT5,LLM,1
+Computer programmers,M,m,smp,ante,Claude,LLM,1
+Computer programmers,M,m,smp,ante,Ministral,LLM,1
+Computer programmers,M,m,smp,ante,Qwen,LLM,1
+Computer programmers,M,m,smp,ante,LLaMA,LLM,1
+Computer programmers,M,m,smp,ante,DeepSeek,LLM,1
+Computer programmers,M,f,smp,ante,Google,NMT,1
+Computer programmers,M,f,smp,ante,DeepL,NMT,1
+Computer programmers,M,f,smp,ante,GPT5,LLM,1
+Computer programmers,M,f,smp,ante,Claude,LLM,1
+Computer programmers,M,f,smp,ante,Ministral,LLM,1
+Computer programmers,M,f,smp,ante,Qwen,LLM,1
+Computer programmers,M,f,smp,ante,LLaMA,LLM,1
+Computer programmers,M,f,smp,ante,DeepSeek,LLM,0
+Computer programmers,M,m,cpx,ante,Google,NMT,1
+Computer programmers,M,m,cpx,ante,DeepL,NMT,1
+Computer programmers,M,m,cpx,ante,GPT5,LLM,1
+Computer programmers,M,m,cpx,ante,Claude,LLM,1
+Computer programmers,M,m,cpx,ante,Ministral,LLM,1
+Computer programmers,M,m,cpx,ante,Qwen,LLM,1
+Computer programmers,M,m,cpx,ante,LLaMA,LLM,1
+Computer programmers,M,m,cpx,ante,DeepSeek,LLM,1
+Computer programmers,M,f,cpx,ante,Google,NMT,0
+Computer programmers,M,f,cpx,ante,DeepL,NMT,0
+Computer programmers,M,f,cpx,ante,GPT5,LLM,1
+Computer programmers,M,f,cpx,ante,Claude,LLM,1
+Computer programmers,M,f,cpx,ante,Ministral,LLM,1
+Computer programmers,M,f,cpx,ante,Qwen,LLM,1
+Computer programmers,M,f,cpx,ante,LLaMA,LLM,1
+Computer programmers,M,f,cpx,ante,DeepSeek,LLM,1
+Computer programmers,M,m,smp,post,Google,NMT,1
+Computer programmers,M,m,smp,post,DeepL,NMT,1
+Computer programmers,M,m,smp,post,GPT5,LLM,1
+Computer programmers,M,m,smp,post,Claude,LLM,1
+Computer programmers,M,m,smp,post,Ministral,LLM,1
+Computer programmers,M,m,smp,post,Qwen,LLM,1
+Computer programmers,M,m,smp,post,LLaMA,LLM,1
+Computer programmers,M,m,smp,post,DeepSeek,LLM,1
+Computer programmers,M,f,smp,post,Google,NMT,1
+Computer programmers,M,f,smp,post,DeepL,NMT,1
+Computer programmers,M,f,smp,post,GPT5,LLM,1
+Computer programmers,M,f,smp,post,Claude,LLM,1
+Computer programmers,M,f,smp,post,Ministral,LLM,1
+Computer programmers,M,f,smp,post,Qwen,LLM,1
+Computer programmers,M,f,smp,post,LLaMA,LLM,1
+Computer programmers,M,f,smp,post,DeepSeek,LLM,1
+Computer programmers,M,m,cpx,post,Google,NMT,1
+Computer programmers,M,m,cpx,post,DeepL,NMT,1
+Computer programmers,M,m,cpx,post,GPT5,LLM,1
+Computer programmers,M,m,cpx,post,Claude,LLM,1
+Computer programmers,M,m,cpx,post,Ministral,LLM,1
+Computer programmers,M,m,cpx,post,Qwen,LLM,1
+Computer programmers,M,m,cpx,post,LLaMA,LLM,1
+Computer programmers,M,m,cpx,post,DeepSeek,LLM,1
+Computer programmers,M,f,cpx,post,Google,NMT,1
+Computer programmers,M,f,cpx,post,DeepL,NMT,1
+Computer programmers,M,f,cpx,post,GPT5,LLM,1
+Computer programmers,M,f,cpx,post,Claude,LLM,1
+Computer programmers,M,f,cpx,post,Ministral,LLM,0
+Computer programmers,M,f,cpx,post,Qwen,LLM,1
+Computer programmers,M,f,cpx,post,LLaMA,LLM,0
+Computer programmers,M,f,cpx,post,DeepSeek,LLM,1
+Chefs and head cooks,M,m,smp,ante,Google,NMT,1
+Chefs and head cooks,M,m,smp,ante,DeepL,NMT,1
+Chefs and head cooks,M,m,smp,ante,GPT5,LLM,1
+Chefs and head cooks,M,m,smp,ante,Claude,LLM,1
+Chefs and head cooks,M,m,smp,ante,Ministral,LLM,1
+Chefs and head cooks,M,m,smp,ante,Qwen,LLM,1
+Chefs and head cooks,M,m,smp,ante,LLaMA,LLM,1
+Chefs and head cooks,M,m,smp,ante,DeepSeek,LLM,1
+Chefs and head cooks,M,f,smp,ante,Google,NMT,1
+Chefs and head cooks,M,f,smp,ante,DeepL,NMT,1
+Chefs and head cooks,M,f,smp,ante,GPT5,LLM,1
+Chefs and head cooks,M,f,smp,ante,Claude,LLM,1
+Chefs and head cooks,M,f,smp,ante,Ministral,LLM,0
+Chefs and head cooks,M,f,smp,ante,Qwen,LLM,1
+Chefs and head cooks,M,f,smp,ante,LLaMA,LLM,0
+Chefs and head cooks,M,f,smp,ante,DeepSeek,LLM,0
+Chefs and head cooks,M,m,cpx,ante,Google,NMT,1
+Chefs and head cooks,M,m,cpx,ante,DeepL,NMT,1
+Chefs and head cooks,M,m,cpx,ante,GPT5,LLM,1
+Chefs and head cooks,M,m,cpx,ante,Claude,LLM,1
+Chefs and head cooks,M,m,cpx,ante,Ministral,LLM,1
+Chefs and head cooks,M,m,cpx,ante,Qwen,LLM,1
+Chefs and head cooks,M,m,cpx,ante,LLaMA,LLM,1
+Chefs and head cooks,M,m,cpx,ante,DeepSeek,LLM,1
+Chefs and head cooks,M,f,cpx,ante,Google,NMT,0
+Chefs and head cooks,M,f,cpx,ante,DeepL,NMT,0
+Chefs and head cooks,M,f,cpx,ante,GPT5,LLM,1
+Chefs and head cooks,M,f,cpx,ante,Claude,LLM,1
+Chefs and head cooks,M,f,cpx,ante,Ministral,LLM,1
+Chefs and head cooks,M,f,cpx,ante,Qwen,LLM,1
+Chefs and head cooks,M,f,cpx,ante,LLaMA,LLM,0
+Chefs and head cooks,M,f,cpx,ante,DeepSeek,LLM,1
+Chefs and head cooks,M,m,smp,post,Google,NMT,1
+Chefs and head cooks,M,m,smp,post,DeepL,NMT,1
+Chefs and head cooks,M,m,smp,post,GPT5,LLM,1
+Chefs and head cooks,M,m,smp,post,Claude,LLM,1
+Chefs and head cooks,M,m,smp,post,Ministral,LLM,1
+Chefs and head cooks,M,m,smp,post,Qwen,LLM,1
+Chefs and head cooks,M,m,smp,post,LLaMA,LLM,1
+Chefs and head cooks,M,m,smp,post,DeepSeek,LLM,1
+Chefs and head cooks,M,f,smp,post,Google,NMT,1
+Chefs and head cooks,M,f,smp,post,DeepL,NMT,1
+Chefs and head cooks,M,f,smp,post,GPT5,LLM,1
+Chefs and head cooks,M,f,smp,post,Claude,LLM,1
+Chefs and head cooks,M,f,smp,post,Ministral,LLM,1
+Chefs and head cooks,M,f,smp,post,Qwen,LLM,1
+Chefs and head cooks,M,f,smp,post,LLaMA,LLM,1
+Chefs and head cooks,M,f,smp,post,DeepSeek,LLM,1
+Chefs and head cooks,M,m,cpx,post,Google,NMT,1
+Chefs and head cooks,M,m,cpx,post,DeepL,NMT,1
+Chefs and head cooks,M,m,cpx,post,GPT5,LLM,1
+Chefs and head cooks,M,m,cpx,post,Claude,LLM,1
+Chefs and head cooks,M,m,cpx,post,Ministral,LLM,1
+Chefs and head cooks,M,m,cpx,post,Qwen,LLM,1
+Chefs and head cooks,M,m,cpx,post,LLaMA,LLM,1
+Chefs and head cooks,M,m,cpx,post,DeepSeek,LLM,1
+Chefs and head cooks,M,f,cpx,post,Google,NMT,0
+Chefs and head cooks,M,f,cpx,post,DeepL,NMT,1
+Chefs and head cooks,M,f,cpx,post,GPT5,LLM,1
+Chefs and head cooks,M,f,cpx,post,Claude,LLM,1
+Chefs and head cooks,M,f,cpx,post,Ministral,LLM,0
+Chefs and head cooks,M,f,cpx,post,Qwen,LLM,1
+Chefs and head cooks,M,f,cpx,post,LLaMA,LLM,0
+Chefs and head cooks,M,f,cpx,post,DeepSeek,LLM,0
+Paramedics,M,m,smp,ante,Google,NMT,1
+Paramedics,M,m,smp,ante,DeepL,NMT,1
+Paramedics,M,m,smp,ante,GPT5,LLM,1
+Paramedics,M,m,smp,ante,Claude,LLM,1
+Paramedics,M,m,smp,ante,Ministral,LLM,1
+Paramedics,M,m,smp,ante,Qwen,LLM,1
+Paramedics,M,m,smp,ante,LLaMA,LLM,1
+Paramedics,M,m,smp,ante,DeepSeek,LLM,1
+Paramedics,M,f,smp,ante,Google,NMT,1
+Paramedics,M,f,smp,ante,DeepL,NMT,1
+Paramedics,M,f,smp,ante,GPT5,LLM,1
+Paramedics,M,f,smp,ante,Claude,LLM,1
+Paramedics,M,f,smp,ante,Ministral,LLM,1
+Paramedics,M,f,smp,ante,Qwen,LLM,1
+Paramedics,M,f,smp,ante,LLaMA,LLM,1
+Paramedics,M,f,smp,ante,DeepSeek,LLM,0
+Paramedics,M,m,cpx,ante,Google,NMT,1
+Paramedics,M,m,cpx,ante,DeepL,NMT,1
+Paramedics,M,m,cpx,ante,GPT5,LLM,1
+Paramedics,M,m,cpx,ante,Claude,LLM,1
+Paramedics,M,m,cpx,ante,Ministral,LLM,1
+Paramedics,M,m,cpx,ante,Qwen,LLM,1
+Paramedics,M,m,cpx,ante,LLaMA,LLM,1
+Paramedics,M,m,cpx,ante,DeepSeek,LLM,1
+Paramedics,M,f,cpx,ante,Google,NMT,0
+Paramedics,M,f,cpx,ante,DeepL,NMT,0
+Paramedics,M,f,cpx,ante,GPT5,LLM,1
+Paramedics,M,f,cpx,ante,Claude,LLM,1
+Paramedics,M,f,cpx,ante,Ministral,LLM,1
+Paramedics,M,f,cpx,ante,Qwen,LLM,1
+Paramedics,M,f,cpx,ante,LLaMA,LLM,0
+Paramedics,M,f,cpx,ante,DeepSeek,LLM,1
+Paramedics,M,m,smp,post,Google,NMT,1
+Paramedics,M,m,smp,post,DeepL,NMT,1
+Paramedics,M,m,smp,post,GPT5,LLM,1
+Paramedics,M,m,smp,post,Claude,LLM,1
+Paramedics,M,m,smp,post,Ministral,LLM,1
+Paramedics,M,m,smp,post,Qwen,LLM,1
+Paramedics,M,m,smp,post,LLaMA,LLM,1
+Paramedics,M,m,smp,post,DeepSeek,LLM,1
+Paramedics,M,f,smp,post,Google,NMT,1
+Paramedics,M,f,smp,post,DeepL,NMT,1
+Paramedics,M,f,smp,post,GPT5,LLM,1
+Paramedics,M,f,smp,post,Claude,LLM,1
+Paramedics,M,f,smp,post,Ministral,LLM,1
+Paramedics,M,f,smp,post,Qwen,LLM,1
+Paramedics,M,f,smp,post,LLaMA,LLM,1
+Paramedics,M,f,smp,post,DeepSeek,LLM,1
+Paramedics,M,m,cpx,post,Google,NMT,1
+Paramedics,M,m,cpx,post,DeepL,NMT,1
+Paramedics,M,m,cpx,post,GPT5,LLM,1
+Paramedics,M,m,cpx,post,Claude,LLM,1
+Paramedics,M,m,cpx,post,Ministral,LLM,1
+Paramedics,M,m,cpx,post,Qwen,LLM,1
+Paramedics,M,m,cpx,post,LLaMA,LLM,1
+Paramedics,M,m,cpx,post,DeepSeek,LLM,1
+Paramedics,M,f,cpx,post,Google,NMT,1
+Paramedics,M,f,cpx,post,DeepL,NMT,1
+Paramedics,M,f,cpx,post,GPT5,LLM,1
+Paramedics,M,f,cpx,post,Claude,LLM,1
+Paramedics,M,f,cpx,post,Ministral,LLM,1
+Paramedics,M,f,cpx,post,Qwen,LLM,1
+Paramedics,M,f,cpx,post,LLaMA,LLM,0
+Paramedics,M,f,cpx,post,DeepSeek,LLM,1
+Dishwashers,M,m,smp,ante,Google,NMT,1
+Dishwashers,M,m,smp,ante,DeepL,NMT,1
+Dishwashers,M,m,smp,ante,GPT5,LLM,1
+Dishwashers,M,m,smp,ante,Claude,LLM,1
+Dishwashers,M,m,smp,ante,Ministral,LLM,0
+Dishwashers,M,m,smp,ante,Qwen,LLM,1
+Dishwashers,M,m,smp,ante,LLaMA,LLM,1
+Dishwashers,M,m,smp,ante,DeepSeek,LLM,1
+Dishwashers,M,f,smp,ante,Google,NMT,1
+Dishwashers,M,f,smp,ante,DeepL,NMT,1
+Dishwashers,M,f,smp,ante,GPT5,LLM,1
+Dishwashers,M,f,smp,ante,Claude,LLM,1
+Dishwashers,M,f,smp,ante,Ministral,LLM,1
+Dishwashers,M,f,smp,ante,Qwen,LLM,1
+Dishwashers,M,f,smp,ante,LLaMA,LLM,1
+Dishwashers,M,f,smp,ante,DeepSeek,LLM,1
+Dishwashers,M,m,cpx,ante,Google,NMT,1
+Dishwashers,M,m,cpx,ante,DeepL,NMT,1
+Dishwashers,M,m,cpx,ante,GPT5,LLM,1
+Dishwashers,M,m,cpx,ante,Claude,LLM,1
+Dishwashers,M,m,cpx,ante,Ministral,LLM,1
+Dishwashers,M,m,cpx,ante,Qwen,LLM,1
+Dishwashers,M,m,cpx,ante,LLaMA,LLM,1
+Dishwashers,M,m,cpx,ante,DeepSeek,LLM,1
+Dishwashers,M,f,cpx,ante,Google,NMT,0
+Dishwashers,M,f,cpx,ante,DeepL,NMT,0
+Dishwashers,M,f,cpx,ante,GPT5,LLM,1
+Dishwashers,M,f,cpx,ante,Claude,LLM,1
+Dishwashers,M,f,cpx,ante,Ministral,LLM,1
+Dishwashers,M,f,cpx,ante,Qwen,LLM,1
+Dishwashers,M,f,cpx,ante,LLaMA,LLM,1
+Dishwashers,M,f,cpx,ante,DeepSeek,LLM,1
+Dishwashers,M,m,smp,post,Google,NMT,1
+Dishwashers,M,m,smp,post,DeepL,NMT,1
+Dishwashers,M,m,smp,post,GPT5,LLM,1
+Dishwashers,M,m,smp,post,Claude,LLM,1
+Dishwashers,M,m,smp,post,Ministral,LLM,1
+Dishwashers,M,m,smp,post,Qwen,LLM,1
+Dishwashers,M,m,smp,post,LLaMA,LLM,1
+Dishwashers,M,m,smp,post,DeepSeek,LLM,1
+Dishwashers,M,f,smp,post,Google,NMT,1
+Dishwashers,M,f,smp,post,DeepL,NMT,1
+Dishwashers,M,f,smp,post,GPT5,LLM,1
+Dishwashers,M,f,smp,post,Claude,LLM,1
+Dishwashers,M,f,smp,post,Ministral,LLM,1
+Dishwashers,M,f,smp,post,Qwen,LLM,1
+Dishwashers,M,f,smp,post,LLaMA,LLM,1
+Dishwashers,M,f,smp,post,DeepSeek,LLM,1
+Dishwashers,M,m,cpx,post,Google,NMT,1
+Dishwashers,M,m,cpx,post,DeepL,NMT,1
+Dishwashers,M,m,cpx,post,GPT5,LLM,1
+Dishwashers,M,m,cpx,post,Claude,LLM,1
+Dishwashers,M,m,cpx,post,Ministral,LLM,1
+Dishwashers,M,m,cpx,post,Qwen,LLM,1
+Dishwashers,M,m,cpx,post,LLaMA,LLM,1
+Dishwashers,M,m,cpx,post,DeepSeek,LLM,1
+Dishwashers,M,f,cpx,post,Google,NMT,1
+Dishwashers,M,f,cpx,post,DeepL,NMT,1
+Dishwashers,M,f,cpx,post,GPT5,LLM,1
+Dishwashers,M,f,cpx,post,Claude,LLM,1
+Dishwashers,M,f,cpx,post,Ministral,LLM,1
+Dishwashers,M,f,cpx,post,Qwen,LLM,1
+Dishwashers,M,f,cpx,post,LLaMA,LLM,1
+Dishwashers,M,f,cpx,post,DeepSeek,LLM,1
+Architects,M,m,smp,ante,Google,NMT,1
+Architects,M,m,smp,ante,DeepL,NMT,1
+Architects,M,m,smp,ante,GPT5,LLM,1
+Architects,M,m,smp,ante,Claude,LLM,1
+Architects,M,m,smp,ante,Ministral,LLM,1
+Architects,M,m,smp,ante,Qwen,LLM,1
+Architects,M,m,smp,ante,LLaMA,LLM,1
+Architects,M,m,smp,ante,DeepSeek,LLM,1
+Architects,M,f,smp,ante,Google,NMT,1
+Architects,M,f,smp,ante,DeepL,NMT,1
+Architects,M,f,smp,ante,GPT5,LLM,1
+Architects,M,f,smp,ante,Claude,LLM,1
+Architects,M,f,smp,ante,Ministral,LLM,1
+Architects,M,f,smp,ante,Qwen,LLM,1
+Architects,M,f,smp,ante,LLaMA,LLM,1
+Architects,M,f,smp,ante,DeepSeek,LLM,1
+Architects,M,m,cpx,ante,Google,NMT,1
+Architects,M,m,cpx,ante,DeepL,NMT,1
+Architects,M,m,cpx,ante,GPT5,LLM,1
+Architects,M,m,cpx,ante,Claude,LLM,1
+Architects,M,m,cpx,ante,Ministral,LLM,1
+Architects,M,m,cpx,ante,Qwen,LLM,1
+Architects,M,m,cpx,ante,LLaMA,LLM,1
+Architects,M,m,cpx,ante,DeepSeek,LLM,1
+Architects,M,f,cpx,ante,Google,NMT,0
+Architects,M,f,cpx,ante,DeepL,NMT,0
+Architects,M,f,cpx,ante,GPT5,LLM,1
+Architects,M,f,cpx,ante,Claude,LLM,1
+Architects,M,f,cpx,ante,Ministral,LLM,1
+Architects,M,f,cpx,ante,Qwen,LLM,1
+Architects,M,f,cpx,ante,LLaMA,LLM,1
+Architects,M,f,cpx,ante,DeepSeek,LLM,1
+Architects,M,m,smp,post,Google,NMT,1
+Architects,M,m,smp,post,DeepL,NMT,1
+Architects,M,m,smp,post,GPT5,LLM,1
+Architects,M,m,smp,post,Claude,LLM,1
+Architects,M,m,smp,post,Ministral,LLM,1
+Architects,M,m,smp,post,Qwen,LLM,1
+Architects,M,m,smp,post,LLaMA,LLM,1
+Architects,M,m,smp,post,DeepSeek,LLM,1
+Architects,M,f,smp,post,Google,NMT,1
+Architects,M,f,smp,post,DeepL,NMT,1
+Architects,M,f,smp,post,GPT5,LLM,1
+Architects,M,f,smp,post,Claude,LLM,1
+Architects,M,f,smp,post,Ministral,LLM,1
+Architects,M,f,smp,post,Qwen,LLM,1
+Architects,M,f,smp,post,LLaMA,LLM,1
+Architects,M,f,smp,post,DeepSeek,LLM,1
+Architects,M,m,cpx,post,Google,NMT,1
+Architects,M,m,cpx,post,DeepL,NMT,1
+Architects,M,m,cpx,post,GPT5,LLM,1
+Architects,M,m,cpx,post,Claude,LLM,1
+Architects,M,m,cpx,post,Ministral,LLM,1
+Architects,M,m,cpx,post,Qwen,LLM,1
+Architects,M,m,cpx,post,LLaMA,LLM,1
+Architects,M,m,cpx,post,DeepSeek,LLM,1
+Architects,M,f,cpx,post,Google,NMT,0
+Architects,M,f,cpx,post,DeepL,NMT,1
+Architects,M,f,cpx,post,GPT5,LLM,1
+Architects,M,f,cpx,post,Claude,LLM,1
+Architects,M,f,cpx,post,Ministral,LLM,0
+Architects,M,f,cpx,post,Qwen,LLM,1
+Architects,M,f,cpx,post,LLaMA,LLM,0
+Architects,M,f,cpx,post,DeepSeek,LLM,1
+Chief executives,M,m,smp,ante,Google,NMT,1
+Chief executives,M,m,smp,ante,DeepL,NMT,1
+Chief executives,M,m,smp,ante,GPT5,LLM,1
+Chief executives,M,m,smp,ante,Claude,LLM,1
+Chief executives,M,m,smp,ante,Ministral,LLM,1
+Chief executives,M,m,smp,ante,Qwen,LLM,1
+Chief executives,M,m,smp,ante,LLaMA,LLM,1
+Chief executives,M,m,smp,ante,DeepSeek,LLM,1
+Chief executives,M,f,smp,ante,Google,NMT,1
+Chief executives,M,f,smp,ante,DeepL,NMT,1
+Chief executives,M,f,smp,ante,GPT5,LLM,1
+Chief executives,M,f,smp,ante,Claude,LLM,1
+Chief executives,M,f,smp,ante,Ministral,LLM,0
+Chief executives,M,f,smp,ante,Qwen,LLM,1
+Chief executives,M,f,smp,ante,LLaMA,LLM,0
+Chief executives,M,f,smp,ante,DeepSeek,LLM,1
+Chief executives,M,m,cpx,ante,Google,NMT,1
+Chief executives,M,m,cpx,ante,DeepL,NMT,1
+Chief executives,M,m,cpx,ante,GPT5,LLM,1
+Chief executives,M,m,cpx,ante,Claude,LLM,1
+Chief executives,M,m,cpx,ante,Ministral,LLM,1
+Chief executives,M,m,cpx,ante,Qwen,LLM,1
+Chief executives,M,m,cpx,ante,LLaMA,LLM,1
+Chief executives,M,m,cpx,ante,DeepSeek,LLM,1
+Chief executives,M,f,cpx,ante,Google,NMT,0
+Chief executives,M,f,cpx,ante,DeepL,NMT,0
+Chief executives,M,f,cpx,ante,GPT5,LLM,1
+Chief executives,M,f,cpx,ante,Claude,LLM,1
+Chief executives,M,f,cpx,ante,Ministral,LLM,1
+Chief executives,M,f,cpx,ante,Qwen,LLM,1
+Chief executives,M,f,cpx,ante,LLaMA,LLM,1
+Chief executives,M,f,cpx,ante,DeepSeek,LLM,1
+Chief executives,M,m,smp,post,Google,NMT,1
+Chief executives,M,m,smp,post,DeepL,NMT,1
+Chief executives,M,m,smp,post,GPT5,LLM,1
+Chief executives,M,m,smp,post,Claude,LLM,1
+Chief executives,M,m,smp,post,Ministral,LLM,1
+Chief executives,M,m,smp,post,Qwen,LLM,1
+Chief executives,M,m,smp,post,LLaMA,LLM,1
+Chief executives,M,m,smp,post,DeepSeek,LLM,1
+Chief executives,M,f,smp,post,Google,NMT,1
+Chief executives,M,f,smp,post,DeepL,NMT,1
+Chief executives,M,f,smp,post,GPT5,LLM,1
+Chief executives,M,f,smp,post,Claude,LLM,1
+Chief executives,M,f,smp,post,Ministral,LLM,1
+Chief executives,M,f,smp,post,Qwen,LLM,1
+Chief executives,M,f,smp,post,LLaMA,LLM,1
+Chief executives,M,f,smp,post,DeepSeek,LLM,1
+Chief executives,M,m,cpx,post,Google,NMT,1
+Chief executives,M,m,cpx,post,DeepL,NMT,1
+Chief executives,M,m,cpx,post,GPT5,LLM,1
+Chief executives,M,m,cpx,post,Claude,LLM,1
+Chief executives,M,m,cpx,post,Ministral,LLM,1
+Chief executives,M,m,cpx,post,Qwen,LLM,1
+Chief executives,M,m,cpx,post,LLaMA,LLM,1
+Chief executives,M,m,cpx,post,DeepSeek,LLM,1
+Chief executives,M,f,cpx,post,Google,NMT,0
+Chief executives,M,f,cpx,post,DeepL,NMT,1
+Chief executives,M,f,cpx,post,GPT5,LLM,1
+Chief executives,M,f,cpx,post,Claude,LLM,1
+Chief executives,M,f,cpx,post,Ministral,LLM,0
+Chief executives,M,f,cpx,post,Qwen,LLM,1
+Chief executives,M,f,cpx,post,LLaMA,LLM,0
+Chief executives,M,f,cpx,post,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,Google,NMT,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,Ministral,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,ante,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,Google,NMT,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,Ministral,LLM,0
+"Bus drivers, transit and intercity ",M,f,smp,ante,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,ante,DeepSeek,LLM,0
+"Bus drivers, transit and intercity ",M,m,cpx,ante,Google,NMT,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,Ministral,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,ante,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,ante,Google,NMT,0
+"Bus drivers, transit and intercity ",M,f,cpx,ante,DeepL,NMT,0
+"Bus drivers, transit and intercity ",M,f,cpx,ante,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,ante,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,ante,Ministral,LLM,0
+"Bus drivers, transit and intercity ",M,f,cpx,ante,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,ante,LLaMA,LLM,0
+"Bus drivers, transit and intercity ",M,f,cpx,ante,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,Google,NMT,1
+"Bus drivers, transit and intercity ",M,m,smp,post,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,m,smp,post,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,Ministral,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,m,smp,post,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,Google,NMT,1
+"Bus drivers, transit and intercity ",M,f,smp,post,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,f,smp,post,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,Ministral,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,f,smp,post,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,Google,NMT,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,Ministral,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,LLaMA,LLM,1
+"Bus drivers, transit and intercity ",M,m,cpx,post,DeepSeek,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,post,Google,NMT,0
+"Bus drivers, transit and intercity ",M,f,cpx,post,DeepL,NMT,1
+"Bus drivers, transit and intercity ",M,f,cpx,post,GPT5,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,post,Claude,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,post,Ministral,LLM,0
+"Bus drivers, transit and intercity ",M,f,cpx,post,Qwen,LLM,1
+"Bus drivers, transit and intercity ",M,f,cpx,post,LLaMA,LLM,0
+"Bus drivers, transit and intercity ",M,f,cpx,post,DeepSeek,LLM,1
+Janitors and building cleaners,M,m,smp,ante,Google,NMT,1
+Janitors and building cleaners,M,m,smp,ante,DeepL,NMT,1
+Janitors and building cleaners,M,m,smp,ante,GPT5,LLM,1
+Janitors and building cleaners,M,m,smp,ante,Claude,LLM,1
+Janitors and building cleaners,M,m,smp,ante,Ministral,LLM,1
+Janitors and building cleaners,M,m,smp,ante,Qwen,LLM,1
+Janitors and building cleaners,M,m,smp,ante,LLaMA,LLM,1
+Janitors and building cleaners,M,m,smp,ante,DeepSeek,LLM,1
+Janitors and building cleaners,M,f,smp,ante,Google,NMT,1
+Janitors and building cleaners,M,f,smp,ante,DeepL,NMT,1
+Janitors and building cleaners,M,f,smp,ante,GPT5,LLM,1
+Janitors and building cleaners,M,f,smp,ante,Claude,LLM,1
+Janitors and building cleaners,M,f,smp,ante,Ministral,LLM,1
+Janitors and building cleaners,M,f,smp,ante,Qwen,LLM,1
+Janitors and building cleaners,M,f,smp,ante,LLaMA,LLM,1
+Janitors and building cleaners,M,f,smp,ante,DeepSeek,LLM,1
+Janitors and building cleaners,M,m,cpx,ante,Google,NMT,0
+Janitors and building cleaners,M,m,cpx,ante,DeepL,NMT,0
+Janitors and building cleaners,M,m,cpx,ante,GPT5,LLM,1
+Janitors and building cleaners,M,m,cpx,ante,Claude,LLM,1
+Janitors and building cleaners,M,m,cpx,ante,Ministral,LLM,0
+Janitors and building cleaners,M,m,cpx,ante,Qwen,LLM,0
+Janitors and building cleaners,M,m,cpx,ante,LLaMA,LLM,1
+Janitors and building cleaners,M,m,cpx,ante,DeepSeek,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,Google,NMT,1
+Janitors and building cleaners,M,f,cpx,ante,DeepL,NMT,0
+Janitors and building cleaners,M,f,cpx,ante,GPT5,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,Claude,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,Ministral,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,Qwen,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,LLaMA,LLM,1
+Janitors and building cleaners,M,f,cpx,ante,DeepSeek,LLM,1
+Janitors and building cleaners,M,m,smp,post,Google,NMT,1
+Janitors and building cleaners,M,m,smp,post,DeepL,NMT,1
+Janitors and building cleaners,M,m,smp,post,GPT5,LLM,1
+Janitors and building cleaners,M,m,smp,post,Claude,LLM,1
+Janitors and building cleaners,M,m,smp,post,Ministral,LLM,1
+Janitors and building cleaners,M,m,smp,post,Qwen,LLM,1
+Janitors and building cleaners,M,m,smp,post,LLaMA,LLM,1
+Janitors and building cleaners,M,m,smp,post,DeepSeek,LLM,1
+Janitors and building cleaners,M,f,smp,post,Google,NMT,1
+Janitors and building cleaners,M,f,smp,post,DeepL,NMT,1
+Janitors and building cleaners,M,f,smp,post,GPT5,LLM,1
+Janitors and building cleaners,M,f,smp,post,Claude,LLM,1
+Janitors and building cleaners,M,f,smp,post,Ministral,LLM,1
+Janitors and building cleaners,M,f,smp,post,Qwen,LLM,1
+Janitors and building cleaners,M,f,smp,post,LLaMA,LLM,1
+Janitors and building cleaners,M,f,smp,post,DeepSeek,LLM,1
+Janitors and building cleaners,M,m,cpx,post,Google,NMT,1
+Janitors and building cleaners,M,m,cpx,post,DeepL,NMT,1
+Janitors and building cleaners,M,m,cpx,post,GPT5,LLM,1
+Janitors and building cleaners,M,m,cpx,post,Claude,LLM,1
+Janitors and building cleaners,M,m,cpx,post,Ministral,LLM,1
+Janitors and building cleaners,M,m,cpx,post,Qwen,LLM,1
+Janitors and building cleaners,M,m,cpx,post,LLaMA,LLM,1
+Janitors and building cleaners,M,m,cpx,post,DeepSeek,LLM,1
+Janitors and building cleaners,M,f,cpx,post,Google,NMT,1
+Janitors and building cleaners,M,f,cpx,post,DeepL,NMT,1
+Janitors and building cleaners,M,f,cpx,post,GPT5,LLM,1
+Janitors and building cleaners,M,f,cpx,post,Claude,LLM,1
+Janitors and building cleaners,M,f,cpx,post,Ministral,LLM,1
+Janitors and building cleaners,M,f,cpx,post,Qwen,LLM,1
+Janitors and building cleaners,M,f,cpx,post,LLaMA,LLM,0
+Janitors and building cleaners,M,f,cpx,post,DeepSeek,LLM,1
+Dentist,M,m,smp,ante,Google,NMT,1
+Dentist,M,m,smp,ante,DeepL,NMT,1
+Dentist,M,m,smp,ante,GPT5,LLM,1
+Dentist,M,m,smp,ante,Claude,LLM,1
+Dentist,M,m,smp,ante,Ministral,LLM,1
+Dentist,M,m,smp,ante,Qwen,LLM,1
+Dentist,M,m,smp,ante,LLaMA,LLM,1
+Dentist,M,m,smp,ante,DeepSeek,LLM,1
+Dentist,M,f,smp,ante,Google,NMT,1
+Dentist,M,f,smp,ante,DeepL,NMT,1
+Dentist,M,f,smp,ante,GPT5,LLM,1
+Dentist,M,f,smp,ante,Claude,LLM,1
+Dentist,M,f,smp,ante,Ministral,LLM,1
+Dentist,M,f,smp,ante,Qwen,LLM,1
+Dentist,M,f,smp,ante,LLaMA,LLM,1
+Dentist,M,f,smp,ante,DeepSeek,LLM,1
+Dentist,M,m,cpx,ante,Google,NMT,1
+Dentist,M,m,cpx,ante,DeepL,NMT,1
+Dentist,M,m,cpx,ante,GPT5,LLM,1
+Dentist,M,m,cpx,ante,Claude,LLM,1
+Dentist,M,m,cpx,ante,Ministral,LLM,1
+Dentist,M,m,cpx,ante,Qwen,LLM,1
+Dentist,M,m,cpx,ante,LLaMA,LLM,1
+Dentist,M,m,cpx,ante,DeepSeek,LLM,1
+Dentist,M,f,cpx,ante,Google,NMT,0
+Dentist,M,f,cpx,ante,DeepL,NMT,0
+Dentist,M,f,cpx,ante,GPT5,LLM,1
+Dentist,M,f,cpx,ante,Claude,LLM,1
+Dentist,M,f,cpx,ante,Ministral,LLM,1
+Dentist,M,f,cpx,ante,Qwen,LLM,1
+Dentist,M,f,cpx,ante,LLaMA,LLM,0
+Dentist,M,f,cpx,ante,DeepSeek,LLM,1
+Dentist,M,m,smp,post,Google,NMT,1
+Dentist,M,m,smp,post,DeepL,NMT,1
+Dentist,M,m,smp,post,GPT5,LLM,1
+Dentist,M,m,smp,post,Claude,LLM,1
+Dentist,M,m,smp,post,Ministral,LLM,1
+Dentist,M,m,smp,post,Qwen,LLM,1
+Dentist,M,m,smp,post,LLaMA,LLM,1
+Dentist,M,m,smp,post,DeepSeek,LLM,1
+Dentist,M,f,smp,post,Google,NMT,1
+Dentist,M,f,smp,post,DeepL,NMT,1
+Dentist,M,f,smp,post,GPT5,LLM,1
+Dentist,M,f,smp,post,Claude,LLM,1
+Dentist,M,f,smp,post,Ministral,LLM,1
+Dentist,M,f,smp,post,Qwen,LLM,1
+Dentist,M,f,smp,post,LLaMA,LLM,1
+Dentist,M,f,smp,post,DeepSeek,LLM,1
+Dentist,M,m,cpx,post,Google,NMT,1
+Dentist,M,m,cpx,post,DeepL,NMT,1
+Dentist,M,m,cpx,post,GPT5,LLM,1
+Dentist,M,m,cpx,post,Claude,LLM,1
+Dentist,M,m,cpx,post,Ministral,LLM,1
+Dentist,M,m,cpx,post,Qwen,LLM,1
+Dentist,M,m,cpx,post,LLaMA,LLM,1
+Dentist,M,m,cpx,post,DeepSeek,LLM,1
+Dentist,M,f,cpx,post,Google,NMT,1
+Dentist,M,f,cpx,post,DeepL,NMT,1
+Dentist,M,f,cpx,post,GPT5,LLM,1
+Dentist,M,f,cpx,post,Claude,LLM,1
+Dentist,M,f,cpx,post,Ministral,LLM,0
+Dentist,M,f,cpx,post,Qwen,LLM,1
+Dentist,M,f,cpx,post,LLaMA,LLM,0
+Dentist,M,f,cpx,post,DeepSeek,LLM,1
+Lawyers,N,m,smp,ante,Google,NMT,1
+Lawyers,N,m,smp,ante,DeepL,NMT,1
+Lawyers,N,m,smp,ante,GPT5,LLM,1
+Lawyers,N,m,smp,ante,Claude,LLM,1
+Lawyers,N,m,smp,ante,Ministral,LLM,1
+Lawyers,N,m,smp,ante,Qwen,LLM,1
+Lawyers,N,m,smp,ante,LLaMA,LLM,1
+Lawyers,N,m,smp,ante,DeepSeek,LLM,1
+Lawyers,N,f,smp,ante,Google,NMT,1
+Lawyers,N,f,smp,ante,DeepL,NMT,1
+Lawyers,N,f,smp,ante,GPT5,LLM,1
+Lawyers,N,f,smp,ante,Claude,LLM,1
+Lawyers,N,f,smp,ante,Ministral,LLM,1
+Lawyers,N,f,smp,ante,Qwen,LLM,1
+Lawyers,N,f,smp,ante,LLaMA,LLM,1
+Lawyers,N,f,smp,ante,DeepSeek,LLM,0
+Lawyers,N,m,cpx,ante,Google,NMT,1
+Lawyers,N,m,cpx,ante,DeepL,NMT,1
+Lawyers,N,m,cpx,ante,GPT5,LLM,1
+Lawyers,N,m,cpx,ante,Claude,LLM,1
+Lawyers,N,m,cpx,ante,Ministral,LLM,1
+Lawyers,N,m,cpx,ante,Qwen,LLM,1
+Lawyers,N,m,cpx,ante,LLaMA,LLM,1
+Lawyers,N,m,cpx,ante,DeepSeek,LLM,1
+Lawyers,N,f,cpx,ante,Google,NMT,0
+Lawyers,N,f,cpx,ante,DeepL,NMT,0
+Lawyers,N,f,cpx,ante,GPT5,LLM,1
+Lawyers,N,f,cpx,ante,Claude,LLM,1
+Lawyers,N,f,cpx,ante,Ministral,LLM,1
+Lawyers,N,f,cpx,ante,Qwen,LLM,1
+Lawyers,N,f,cpx,ante,LLaMA,LLM,1
+Lawyers,N,f,cpx,ante,DeepSeek,LLM,1
+Lawyers,N,m,smp,post,Google,NMT,1
+Lawyers,N,m,smp,post,DeepL,NMT,1
+Lawyers,N,m,smp,post,GPT5,LLM,1
+Lawyers,N,m,smp,post,Claude,LLM,1
+Lawyers,N,m,smp,post,Ministral,LLM,1
+Lawyers,N,m,smp,post,Qwen,LLM,1
+Lawyers,N,m,smp,post,LLaMA,LLM,1
+Lawyers,N,m,smp,post,DeepSeek,LLM,1
+Lawyers,N,f,smp,post,Google,NMT,1
+Lawyers,N,f,smp,post,DeepL,NMT,1
+Lawyers,N,f,smp,post,GPT5,LLM,1
+Lawyers,N,f,smp,post,Claude,LLM,1
+Lawyers,N,f,smp,post,Ministral,LLM,1
+Lawyers,N,f,smp,post,Qwen,LLM,1
+Lawyers,N,f,smp,post,LLaMA,LLM,1
+Lawyers,N,f,smp,post,DeepSeek,LLM,1
+Lawyers,N,m,cpx,post,Google,NMT,1
+Lawyers,N,m,cpx,post,DeepL,NMT,1
+Lawyers,N,m,cpx,post,GPT5,LLM,1
+Lawyers,N,m,cpx,post,Claude,LLM,1
+Lawyers,N,m,cpx,post,Ministral,LLM,1
+Lawyers,N,m,cpx,post,Qwen,LLM,1
+Lawyers,N,m,cpx,post,LLaMA,LLM,1
+Lawyers,N,m,cpx,post,DeepSeek,LLM,1
+Lawyers,N,f,cpx,post,Google,NMT,1
+Lawyers,N,f,cpx,post,DeepL,NMT,1
+Lawyers,N,f,cpx,post,GPT5,LLM,1
+Lawyers,N,f,cpx,post,Claude,LLM,1
+Lawyers,N,f,cpx,post,Ministral,LLM,0
+Lawyers,N,f,cpx,post,Qwen,LLM,1
+Lawyers,N,f,cpx,post,LLaMA,LLM,0
+Lawyers,N,f,cpx,post,DeepSeek,LLM,1
+Cooks,N,m,smp,ante,Google,NMT,1
+Cooks,N,m,smp,ante,DeepL,NMT,1
+Cooks,N,m,smp,ante,GPT5,LLM,1
+Cooks,N,m,smp,ante,Claude,LLM,1
+Cooks,N,m,smp,ante,Ministral,LLM,1
+Cooks,N,m,smp,ante,Qwen,LLM,1
+Cooks,N,m,smp,ante,LLaMA,LLM,1
+Cooks,N,m,smp,ante,DeepSeek,LLM,1
+Cooks,N,f,smp,ante,Google,NMT,1
+Cooks,N,f,smp,ante,DeepL,NMT,1
+Cooks,N,f,smp,ante,GPT5,LLM,1
+Cooks,N,f,smp,ante,Claude,LLM,1
+Cooks,N,f,smp,ante,Ministral,LLM,0
+Cooks,N,f,smp,ante,Qwen,LLM,1
+Cooks,N,f,smp,ante,LLaMA,LLM,1
+Cooks,N,f,smp,ante,DeepSeek,LLM,0
+Cooks,N,m,cpx,ante,Google,NMT,1
+Cooks,N,m,cpx,ante,DeepL,NMT,1
+Cooks,N,m,cpx,ante,GPT5,LLM,1
+Cooks,N,m,cpx,ante,Claude,LLM,1
+Cooks,N,m,cpx,ante,Ministral,LLM,1
+Cooks,N,m,cpx,ante,Qwen,LLM,1
+Cooks,N,m,cpx,ante,LLaMA,LLM,1
+Cooks,N,m,cpx,ante,DeepSeek,LLM,1
+Cooks,N,f,cpx,ante,Google,NMT,0
+Cooks,N,f,cpx,ante,DeepL,NMT,0
+Cooks,N,f,cpx,ante,GPT5,LLM,1
+Cooks,N,f,cpx,ante,Claude,LLM,1
+Cooks,N,f,cpx,ante,Ministral,LLM,0
+Cooks,N,f,cpx,ante,Qwen,LLM,1
+Cooks,N,f,cpx,ante,LLaMA,LLM,0
+Cooks,N,f,cpx,ante,DeepSeek,LLM,1
+Cooks,N,m,smp,post,Google,NMT,1
+Cooks,N,m,smp,post,DeepL,NMT,1
+Cooks,N,m,smp,post,GPT5,LLM,1
+Cooks,N,m,smp,post,Claude,LLM,1
+Cooks,N,m,smp,post,Ministral,LLM,1
+Cooks,N,m,smp,post,Qwen,LLM,1
+Cooks,N,m,smp,post,LLaMA,LLM,1
+Cooks,N,m,smp,post,DeepSeek,LLM,1
+Cooks,N,f,smp,post,Google,NMT,1
+Cooks,N,f,smp,post,DeepL,NMT,1
+Cooks,N,f,smp,post,GPT5,LLM,1
+Cooks,N,f,smp,post,Claude,LLM,1
+Cooks,N,f,smp,post,Ministral,LLM,1
+Cooks,N,f,smp,post,Qwen,LLM,1
+Cooks,N,f,smp,post,LLaMA,LLM,1
+Cooks,N,f,smp,post,DeepSeek,LLM,1
+Cooks,N,m,cpx,post,Google,NMT,1
+Cooks,N,m,cpx,post,DeepL,NMT,1
+Cooks,N,m,cpx,post,GPT5,LLM,1
+Cooks,N,m,cpx,post,Claude,LLM,1
+Cooks,N,m,cpx,post,Ministral,LLM,1
+Cooks,N,m,cpx,post,Qwen,LLM,1
+Cooks,N,m,cpx,post,LLaMA,LLM,1
+Cooks,N,m,cpx,post,DeepSeek,LLM,1
+Cooks,N,f,cpx,post,Google,NMT,0
+Cooks,N,f,cpx,post,DeepL,NMT,1
+Cooks,N,f,cpx,post,GPT5,LLM,1
+Cooks,N,f,cpx,post,Claude,LLM,1
+Cooks,N,f,cpx,post,Ministral,LLM,0
+Cooks,N,f,cpx,post,Qwen,LLM,1
+Cooks,N,f,cpx,post,LLaMA,LLM,0
+Cooks,N,f,cpx,post,DeepSeek,LLM,1
+Photographers,N,m,smp,ante,Google,NMT,1
+Photographers,N,m,smp,ante,DeepL,NMT,1
+Photographers,N,m,smp,ante,GPT5,LLM,1
+Photographers,N,m,smp,ante,Claude,LLM,1
+Photographers,N,m,smp,ante,Ministral,LLM,1
+Photographers,N,m,smp,ante,Qwen,LLM,1
+Photographers,N,m,smp,ante,LLaMA,LLM,1
+Photographers,N,m,smp,ante,DeepSeek,LLM,1
+Photographers,N,f,smp,ante,Google,NMT,1
+Photographers,N,f,smp,ante,DeepL,NMT,1
+Photographers,N,f,smp,ante,GPT5,LLM,1
+Photographers,N,f,smp,ante,Claude,LLM,1
+Photographers,N,f,smp,ante,Ministral,LLM,1
+Photographers,N,f,smp,ante,Qwen,LLM,1
+Photographers,N,f,smp,ante,LLaMA,LLM,1
+Photographers,N,f,smp,ante,DeepSeek,LLM,1
+Photographers,N,m,cpx,ante,Google,NMT,1
+Photographers,N,m,cpx,ante,DeepL,NMT,1
+Photographers,N,m,cpx,ante,GPT5,LLM,1
+Photographers,N,m,cpx,ante,Claude,LLM,1
+Photographers,N,m,cpx,ante,Ministral,LLM,1
+Photographers,N,m,cpx,ante,Qwen,LLM,1
+Photographers,N,m,cpx,ante,LLaMA,LLM,1
+Photographers,N,m,cpx,ante,DeepSeek,LLM,1
+Photographers,N,f,cpx,ante,Google,NMT,0
+Photographers,N,f,cpx,ante,DeepL,NMT,0
+Photographers,N,f,cpx,ante,GPT5,LLM,1
+Photographers,N,f,cpx,ante,Claude,LLM,1
+Photographers,N,f,cpx,ante,Ministral,LLM,1
+Photographers,N,f,cpx,ante,Qwen,LLM,1
+Photographers,N,f,cpx,ante,LLaMA,LLM,1
+Photographers,N,f,cpx,ante,DeepSeek,LLM,1
+Photographers,N,m,smp,post,Google,NMT,1
+Photographers,N,m,smp,post,DeepL,NMT,1
+Photographers,N,m,smp,post,GPT5,LLM,1
+Photographers,N,m,smp,post,Claude,LLM,1
+Photographers,N,m,smp,post,Ministral,LLM,1
+Photographers,N,m,smp,post,Qwen,LLM,1
+Photographers,N,m,smp,post,LLaMA,LLM,1
+Photographers,N,m,smp,post,DeepSeek,LLM,1
+Photographers,N,f,smp,post,Google,NMT,1
+Photographers,N,f,smp,post,DeepL,NMT,1
+Photographers,N,f,smp,post,GPT5,LLM,1
+Photographers,N,f,smp,post,Claude,LLM,1
+Photographers,N,f,smp,post,Ministral,LLM,1
+Photographers,N,f,smp,post,Qwen,LLM,1
+Photographers,N,f,smp,post,LLaMA,LLM,1
+Photographers,N,f,smp,post,DeepSeek,LLM,1
+Photographers,N,m,cpx,post,Google,NMT,1
+Photographers,N,m,cpx,post,DeepL,NMT,1
+Photographers,N,m,cpx,post,GPT5,LLM,1
+Photographers,N,m,cpx,post,Claude,LLM,1
+Photographers,N,m,cpx,post,Ministral,LLM,1
+Photographers,N,m,cpx,post,Qwen,LLM,1
+Photographers,N,m,cpx,post,LLaMA,LLM,1
+Photographers,N,m,cpx,post,DeepSeek,LLM,1
+Photographers,N,f,cpx,post,Google,NMT,1
+Photographers,N,f,cpx,post,DeepL,NMT,1
+Photographers,N,f,cpx,post,GPT5,LLM,1
+Photographers,N,f,cpx,post,Claude,LLM,1
+Photographers,N,f,cpx,post,Ministral,LLM,1
+Photographers,N,f,cpx,post,Qwen,LLM,1
+Photographers,N,f,cpx,post,LLaMA,LLM,0
+Photographers,N,f,cpx,post,DeepSeek,LLM,1
+Coaches and scouts ,N,m,smp,ante,Google,NMT,1
+Coaches and scouts ,N,m,smp,ante,DeepL,NMT,1
+Coaches and scouts ,N,m,smp,ante,GPT5,LLM,1
+Coaches and scouts ,N,m,smp,ante,Claude,LLM,1
+Coaches and scouts ,N,m,smp,ante,Ministral,LLM,1
+Coaches and scouts ,N,m,smp,ante,Qwen,LLM,1
+Coaches and scouts ,N,m,smp,ante,LLaMA,LLM,1
+Coaches and scouts ,N,m,smp,ante,DeepSeek,LLM,1
+Coaches and scouts ,N,f,smp,ante,Google,NMT,1
+Coaches and scouts ,N,f,smp,ante,DeepL,NMT,1
+Coaches and scouts ,N,f,smp,ante,GPT5,LLM,1
+Coaches and scouts ,N,f,smp,ante,Claude,LLM,1
+Coaches and scouts ,N,f,smp,ante,Ministral,LLM,1
+Coaches and scouts ,N,f,smp,ante,Qwen,LLM,1
+Coaches and scouts ,N,f,smp,ante,LLaMA,LLM,0
+Coaches and scouts ,N,f,smp,ante,DeepSeek,LLM,0
+Coaches and scouts ,N,m,cpx,ante,Google,NMT,1
+Coaches and scouts ,N,m,cpx,ante,DeepL,NMT,1
+Coaches and scouts ,N,m,cpx,ante,GPT5,LLM,1
+Coaches and scouts ,N,m,cpx,ante,Claude,LLM,1
+Coaches and scouts ,N,m,cpx,ante,Ministral,LLM,1
+Coaches and scouts ,N,m,cpx,ante,Qwen,LLM,1
+Coaches and scouts ,N,m,cpx,ante,LLaMA,LLM,1
+Coaches and scouts ,N,m,cpx,ante,DeepSeek,LLM,1
+Coaches and scouts ,N,f,cpx,ante,Google,NMT,0
+Coaches and scouts ,N,f,cpx,ante,DeepL,NMT,1
+Coaches and scouts ,N,f,cpx,ante,GPT5,LLM,1
+Coaches and scouts ,N,f,cpx,ante,Claude,LLM,1
+Coaches and scouts ,N,f,cpx,ante,Ministral,LLM,1
+Coaches and scouts ,N,f,cpx,ante,Qwen,LLM,1
+Coaches and scouts ,N,f,cpx,ante,LLaMA,LLM,0
+Coaches and scouts ,N,f,cpx,ante,DeepSeek,LLM,1
+Coaches and scouts ,N,m,smp,post,Google,NMT,1
+Coaches and scouts ,N,m,smp,post,DeepL,NMT,1
+Coaches and scouts ,N,m,smp,post,GPT5,LLM,1
+Coaches and scouts ,N,m,smp,post,Claude,LLM,1
+Coaches and scouts ,N,m,smp,post,Ministral,LLM,1
+Coaches and scouts ,N,m,smp,post,Qwen,LLM,1
+Coaches and scouts ,N,m,smp,post,LLaMA,LLM,1
+Coaches and scouts ,N,m,smp,post,DeepSeek,LLM,1
+Coaches and scouts ,N,f,smp,post,Google,NMT,1
+Coaches and scouts ,N,f,smp,post,DeepL,NMT,1
+Coaches and scouts ,N,f,smp,post,GPT5,LLM,1
+Coaches and scouts ,N,f,smp,post,Claude,LLM,1
+Coaches and scouts ,N,f,smp,post,Ministral,LLM,1
+Coaches and scouts ,N,f,smp,post,Qwen,LLM,1
+Coaches and scouts ,N,f,smp,post,LLaMA,LLM,1
+Coaches and scouts ,N,f,smp,post,DeepSeek,LLM,1
+Coaches and scouts ,N,m,cpx,post,Google,NMT,1
+Coaches and scouts ,N,m,cpx,post,DeepL,NMT,1
+Coaches and scouts ,N,m,cpx,post,GPT5,LLM,1
+Coaches and scouts ,N,m,cpx,post,Claude,LLM,1
+Coaches and scouts ,N,m,cpx,post,Ministral,LLM,1
+Coaches and scouts ,N,m,cpx,post,Qwen,LLM,1
+Coaches and scouts ,N,m,cpx,post,LLaMA,LLM,1
+Coaches and scouts ,N,m,cpx,post,DeepSeek,LLM,1
+Coaches and scouts ,N,f,cpx,post,Google,NMT,1
+Coaches and scouts ,N,f,cpx,post,DeepL,NMT,1
+Coaches and scouts ,N,f,cpx,post,GPT5,LLM,1
+Coaches and scouts ,N,f,cpx,post,Claude,LLM,1
+Coaches and scouts ,N,f,cpx,post,Ministral,LLM,0
+Coaches and scouts ,N,f,cpx,post,Qwen,LLM,1
+Coaches and scouts ,N,f,cpx,post,LLaMA,LLM,0
+Coaches and scouts ,N,f,cpx,post,DeepSeek,LLM,1
+Postsecondary teachers ,N,m,smp,ante,Google,NMT,1
+Postsecondary teachers ,N,m,smp,ante,DeepL,NMT,1
+Postsecondary teachers ,N,m,smp,ante,GPT5,LLM,1
+Postsecondary teachers ,N,m,smp,ante,Claude,LLM,1
+Postsecondary teachers ,N,m,smp,ante,Ministral,LLM,1
+Postsecondary teachers ,N,m,smp,ante,Qwen,LLM,1
+Postsecondary teachers ,N,m,smp,ante,LLaMA,LLM,1
+Postsecondary teachers ,N,m,smp,ante,DeepSeek,LLM,1
+Postsecondary teachers ,N,f,smp,ante,Google,NMT,1
+Postsecondary teachers ,N,f,smp,ante,DeepL,NMT,1
+Postsecondary teachers ,N,f,smp,ante,GPT5,LLM,1
+Postsecondary teachers ,N,f,smp,ante,Claude,LLM,1
+Postsecondary teachers ,N,f,smp,ante,Ministral,LLM,1
+Postsecondary teachers ,N,f,smp,ante,Qwen,LLM,1
+Postsecondary teachers ,N,f,smp,ante,LLaMA,LLM,1
+Postsecondary teachers ,N,f,smp,ante,DeepSeek,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,Google,NMT,1
+Postsecondary teachers ,N,m,cpx,ante,DeepL,NMT,1
+Postsecondary teachers ,N,m,cpx,ante,GPT5,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,Claude,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,Ministral,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,Qwen,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,LLaMA,LLM,1
+Postsecondary teachers ,N,m,cpx,ante,DeepSeek,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,Google,NMT,0
+Postsecondary teachers ,N,f,cpx,ante,DeepL,NMT,1
+Postsecondary teachers ,N,f,cpx,ante,GPT5,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,Claude,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,Ministral,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,Qwen,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,LLaMA,LLM,1
+Postsecondary teachers ,N,f,cpx,ante,DeepSeek,LLM,1
+Postsecondary teachers ,N,m,smp,post,Google,NMT,1
+Postsecondary teachers ,N,m,smp,post,DeepL,NMT,1
+Postsecondary teachers ,N,m,smp,post,GPT5,LLM,1
+Postsecondary teachers ,N,m,smp,post,Claude,LLM,1
+Postsecondary teachers ,N,m,smp,post,Ministral,LLM,1
+Postsecondary teachers ,N,m,smp,post,Qwen,LLM,1
+Postsecondary teachers ,N,m,smp,post,LLaMA,LLM,1
+Postsecondary teachers ,N,m,smp,post,DeepSeek,LLM,1
+Postsecondary teachers ,N,f,smp,post,Google,NMT,1
+Postsecondary teachers ,N,f,smp,post,DeepL,NMT,1
+Postsecondary teachers ,N,f,smp,post,GPT5,LLM,1
+Postsecondary teachers ,N,f,smp,post,Claude,LLM,1
+Postsecondary teachers ,N,f,smp,post,Ministral,LLM,1
+Postsecondary teachers ,N,f,smp,post,Qwen,LLM,1
+Postsecondary teachers ,N,f,smp,post,LLaMA,LLM,1
+Postsecondary teachers ,N,f,smp,post,DeepSeek,LLM,1
+Postsecondary teachers ,N,m,cpx,post,Google,NMT,1
+Postsecondary teachers ,N,m,cpx,post,DeepL,NMT,1
+Postsecondary teachers ,N,m,cpx,post,GPT5,LLM,1
+Postsecondary teachers ,N,m,cpx,post,Claude,LLM,1
+Postsecondary teachers ,N,m,cpx,post,Ministral,LLM,1
+Postsecondary teachers ,N,m,cpx,post,Qwen,LLM,1
+Postsecondary teachers ,N,m,cpx,post,LLaMA,LLM,1
+Postsecondary teachers ,N,m,cpx,post,DeepSeek,LLM,1
+Postsecondary teachers ,N,f,cpx,post,Google,NMT,1
+Postsecondary teachers ,N,f,cpx,post,DeepL,NMT,1
+Postsecondary teachers ,N,f,cpx,post,GPT5,LLM,1
+Postsecondary teachers ,N,f,cpx,post,Claude,LLM,1
+Postsecondary teachers ,N,f,cpx,post,Ministral,LLM,0
+Postsecondary teachers ,N,f,cpx,post,Qwen,LLM,1
+Postsecondary teachers ,N,f,cpx,post,LLaMA,LLM,1
+Postsecondary teachers ,N,f,cpx,post,DeepSeek,LLM,1
+Artists,N,m,smp,ante,Google,NMT,1
+Artists,N,m,smp,ante,DeepL,NMT,1
+Artists,N,m,smp,ante,GPT5,LLM,1
+Artists,N,m,smp,ante,Claude,LLM,1
+Artists,N,m,smp,ante,Ministral,LLM,1
+Artists,N,m,smp,ante,Qwen,LLM,1
+Artists,N,m,smp,ante,LLaMA,LLM,1
+Artists,N,m,smp,ante,DeepSeek,LLM,1
+Artists,N,f,smp,ante,Google,NMT,1
+Artists,N,f,smp,ante,DeepL,NMT,1
+Artists,N,f,smp,ante,GPT5,LLM,1
+Artists,N,f,smp,ante,Claude,LLM,1
+Artists,N,f,smp,ante,Ministral,LLM,1
+Artists,N,f,smp,ante,Qwen,LLM,1
+Artists,N,f,smp,ante,LLaMA,LLM,1
+Artists,N,f,smp,ante,DeepSeek,LLM,1
+Artists,N,m,cpx,ante,Google,NMT,1
+Artists,N,m,cpx,ante,DeepL,NMT,1
+Artists,N,m,cpx,ante,GPT5,LLM,1
+Artists,N,m,cpx,ante,Claude,LLM,1
+Artists,N,m,cpx,ante,Ministral,LLM,1
+Artists,N,m,cpx,ante,Qwen,LLM,1
+Artists,N,m,cpx,ante,LLaMA,LLM,1
+Artists,N,m,cpx,ante,DeepSeek,LLM,1
+Artists,N,f,cpx,ante,Google,NMT,0
+Artists,N,f,cpx,ante,DeepL,NMT,0
+Artists,N,f,cpx,ante,GPT5,LLM,1
+Artists,N,f,cpx,ante,Claude,LLM,1
+Artists,N,f,cpx,ante,Ministral,LLM,1
+Artists,N,f,cpx,ante,Qwen,LLM,1
+Artists,N,f,cpx,ante,LLaMA,LLM,1
+Artists,N,f,cpx,ante,DeepSeek,LLM,1
+Artists,N,m,smp,post,Google,NMT,1
+Artists,N,m,smp,post,DeepL,NMT,1
+Artists,N,m,smp,post,GPT5,LLM,1
+Artists,N,m,smp,post,Claude,LLM,1
+Artists,N,m,smp,post,Ministral,LLM,1
+Artists,N,m,smp,post,Qwen,LLM,1
+Artists,N,m,smp,post,LLaMA,LLM,1
+Artists,N,m,smp,post,DeepSeek,LLM,1
+Artists,N,f,smp,post,Google,NMT,1
+Artists,N,f,smp,post,DeepL,NMT,1
+Artists,N,f,smp,post,GPT5,LLM,1
+Artists,N,f,smp,post,Claude,LLM,1
+Artists,N,f,smp,post,Ministral,LLM,1
+Artists,N,f,smp,post,Qwen,LLM,1
+Artists,N,f,smp,post,LLaMA,LLM,1
+Artists,N,f,smp,post,DeepSeek,LLM,1
+Artists,N,m,cpx,post,Google,NMT,1
+Artists,N,m,cpx,post,DeepL,NMT,1
+Artists,N,m,cpx,post,GPT5,LLM,1
+Artists,N,m,cpx,post,Claude,LLM,1
+Artists,N,m,cpx,post,Ministral,LLM,1
+Artists,N,m,cpx,post,Qwen,LLM,1
+Artists,N,m,cpx,post,LLaMA,LLM,1
+Artists,N,m,cpx,post,DeepSeek,LLM,1
+Artists,N,f,cpx,post,Google,NMT,1
+Artists,N,f,cpx,post,DeepL,NMT,1
+Artists,N,f,cpx,post,GPT5,LLM,1
+Artists,N,f,cpx,post,Claude,LLM,1
+Artists,N,f,cpx,post,Ministral,LLM,1
+Artists,N,f,cpx,post,Qwen,LLM,1
+Artists,N,f,cpx,post,LLaMA,LLM,1
+Artists,N,f,cpx,post,DeepSeek,LLM,1
+Medical scientists,N,m,smp,ante,Google,NMT,1
+Medical scientists,N,m,smp,ante,DeepL,NMT,1
+Medical scientists,N,m,smp,ante,GPT5,LLM,1
+Medical scientists,N,m,smp,ante,Claude,LLM,1
+Medical scientists,N,m,smp,ante,Ministral,LLM,1
+Medical scientists,N,m,smp,ante,Qwen,LLM,1
+Medical scientists,N,m,smp,ante,LLaMA,LLM,1
+Medical scientists,N,m,smp,ante,DeepSeek,LLM,1
+Medical scientists,N,f,smp,ante,Google,NMT,1
+Medical scientists,N,f,smp,ante,DeepL,NMT,1
+Medical scientists,N,f,smp,ante,GPT5,LLM,1
+Medical scientists,N,f,smp,ante,Claude,LLM,1
+Medical scientists,N,f,smp,ante,Ministral,LLM,1
+Medical scientists,N,f,smp,ante,Qwen,LLM,1
+Medical scientists,N,f,smp,ante,LLaMA,LLM,1
+Medical scientists,N,f,smp,ante,DeepSeek,LLM,1
+Medical scientists,N,m,cpx,ante,Google,NMT,1
+Medical scientists,N,m,cpx,ante,DeepL,NMT,1
+Medical scientists,N,m,cpx,ante,GPT5,LLM,1
+Medical scientists,N,m,cpx,ante,Claude,LLM,1
+Medical scientists,N,m,cpx,ante,Ministral,LLM,1
+Medical scientists,N,m,cpx,ante,Qwen,LLM,1
+Medical scientists,N,m,cpx,ante,LLaMA,LLM,1
+Medical scientists,N,m,cpx,ante,DeepSeek,LLM,1
+Medical scientists,N,f,cpx,ante,Google,NMT,0
+Medical scientists,N,f,cpx,ante,DeepL,NMT,0
+Medical scientists,N,f,cpx,ante,GPT5,LLM,1
+Medical scientists,N,f,cpx,ante,Claude,LLM,1
+Medical scientists,N,f,cpx,ante,Ministral,LLM,1
+Medical scientists,N,f,cpx,ante,Qwen,LLM,1
+Medical scientists,N,f,cpx,ante,LLaMA,LLM,1
+Medical scientists,N,f,cpx,ante,DeepSeek,LLM,1
+Medical scientists,N,m,smp,post,Google,NMT,1
+Medical scientists,N,m,smp,post,DeepL,NMT,1
+Medical scientists,N,m,smp,post,GPT5,LLM,1
+Medical scientists,N,m,smp,post,Claude,LLM,1
+Medical scientists,N,m,smp,post,Ministral,LLM,1
+Medical scientists,N,m,smp,post,Qwen,LLM,1
+Medical scientists,N,m,smp,post,LLaMA,LLM,1
+Medical scientists,N,m,smp,post,DeepSeek,LLM,1
+Medical scientists,N,f,smp,post,Google,NMT,1
+Medical scientists,N,f,smp,post,DeepL,NMT,1
+Medical scientists,N,f,smp,post,GPT5,LLM,1
+Medical scientists,N,f,smp,post,Claude,LLM,1
+Medical scientists,N,f,smp,post,Ministral,LLM,1
+Medical scientists,N,f,smp,post,Qwen,LLM,1
+Medical scientists,N,f,smp,post,LLaMA,LLM,1
+Medical scientists,N,f,smp,post,DeepSeek,LLM,1
+Medical scientists,N,m,cpx,post,Google,NMT,1
+Medical scientists,N,m,cpx,post,DeepL,NMT,1
+Medical scientists,N,m,cpx,post,GPT5,LLM,1
+Medical scientists,N,m,cpx,post,Claude,LLM,1
+Medical scientists,N,m,cpx,post,Ministral,LLM,1
+Medical scientists,N,m,cpx,post,Qwen,LLM,1
+Medical scientists,N,m,cpx,post,LLaMA,LLM,1
+Medical scientists,N,m,cpx,post,DeepSeek,LLM,1
+Medical scientists,N,f,cpx,post,Google,NMT,1
+Medical scientists,N,f,cpx,post,DeepL,NMT,1
+Medical scientists,N,f,cpx,post,GPT5,LLM,1
+Medical scientists,N,f,cpx,post,Claude,LLM,1
+Medical scientists,N,f,cpx,post,Ministral,LLM,1
+Medical scientists,N,f,cpx,post,Qwen,LLM,1
+Medical scientists,N,f,cpx,post,LLaMA,LLM,1
+Medical scientists,N,f,cpx,post,DeepSeek,LLM,1
+Bartenders,N,m,smp,ante,Google,NMT,1
+Bartenders,N,m,smp,ante,DeepL,NMT,1
+Bartenders,N,m,smp,ante,GPT5,LLM,1
+Bartenders,N,m,smp,ante,Claude,LLM,1
+Bartenders,N,m,smp,ante,Ministral,LLM,1
+Bartenders,N,m,smp,ante,Qwen,LLM,1
+Bartenders,N,m,smp,ante,LLaMA,LLM,1
+Bartenders,N,m,smp,ante,DeepSeek,LLM,1
+Bartenders,N,f,smp,ante,Google,NMT,1
+Bartenders,N,f,smp,ante,DeepL,NMT,1
+Bartenders,N,f,smp,ante,GPT5,LLM,1
+Bartenders,N,f,smp,ante,Claude,LLM,1
+Bartenders,N,f,smp,ante,Ministral,LLM,1
+Bartenders,N,f,smp,ante,Qwen,LLM,1
+Bartenders,N,f,smp,ante,LLaMA,LLM,1
+Bartenders,N,f,smp,ante,DeepSeek,LLM,0
+Bartenders,N,m,cpx,ante,Google,NMT,1
+Bartenders,N,m,cpx,ante,DeepL,NMT,1
+Bartenders,N,m,cpx,ante,GPT5,LLM,1
+Bartenders,N,m,cpx,ante,Claude,LLM,1
+Bartenders,N,m,cpx,ante,Ministral,LLM,1
+Bartenders,N,m,cpx,ante,Qwen,LLM,1
+Bartenders,N,m,cpx,ante,LLaMA,LLM,1
+Bartenders,N,m,cpx,ante,DeepSeek,LLM,1
+Bartenders,N,f,cpx,ante,Google,NMT,0
+Bartenders,N,f,cpx,ante,DeepL,NMT,0
+Bartenders,N,f,cpx,ante,GPT5,LLM,1
+Bartenders,N,f,cpx,ante,Claude,LLM,1
+Bartenders,N,f,cpx,ante,Ministral,LLM,1
+Bartenders,N,f,cpx,ante,Qwen,LLM,1
+Bartenders,N,f,cpx,ante,LLaMA,LLM,0
+Bartenders,N,f,cpx,ante,DeepSeek,LLM,1
+Bartenders,N,m,smp,post,Google,NMT,1
+Bartenders,N,m,smp,post,DeepL,NMT,1
+Bartenders,N,m,smp,post,GPT5,LLM,1
+Bartenders,N,m,smp,post,Claude,LLM,1
+Bartenders,N,m,smp,post,Ministral,LLM,1
+Bartenders,N,m,smp,post,Qwen,LLM,1
+Bartenders,N,m,smp,post,LLaMA,LLM,1
+Bartenders,N,m,smp,post,DeepSeek,LLM,1
+Bartenders,N,f,smp,post,Google,NMT,1
+Bartenders,N,f,smp,post,DeepL,NMT,1
+Bartenders,N,f,smp,post,GPT5,LLM,1
+Bartenders,N,f,smp,post,Claude,LLM,1
+Bartenders,N,f,smp,post,Ministral,LLM,1
+Bartenders,N,f,smp,post,Qwen,LLM,1
+Bartenders,N,f,smp,post,LLaMA,LLM,1
+Bartenders,N,f,smp,post,DeepSeek,LLM,1
+Bartenders,N,m,cpx,post,Google,NMT,1
+Bartenders,N,m,cpx,post,DeepL,NMT,1
+Bartenders,N,m,cpx,post,GPT5,LLM,1
+Bartenders,N,m,cpx,post,Claude,LLM,1
+Bartenders,N,m,cpx,post,Ministral,LLM,1
+Bartenders,N,m,cpx,post,Qwen,LLM,1
+Bartenders,N,m,cpx,post,LLaMA,LLM,1
+Bartenders,N,m,cpx,post,DeepSeek,LLM,1
+Bartenders,N,f,cpx,post,Google,NMT,1
+Bartenders,N,f,cpx,post,DeepL,NMT,1
+Bartenders,N,f,cpx,post,GPT5,LLM,1
+Bartenders,N,f,cpx,post,Claude,LLM,1
+Bartenders,N,f,cpx,post,Ministral,LLM,0
+Bartenders,N,f,cpx,post,Qwen,LLM,1
+Bartenders,N,f,cpx,post,LLaMA,LLM,0
+Bartenders,N,f,cpx,post,DeepSeek,LLM,1
+Biological scientists,N,m,smp,ante,Google,NMT,1
+Biological scientists,N,m,smp,ante,DeepL,NMT,1
+Biological scientists,N,m,smp,ante,GPT5,LLM,1
+Biological scientists,N,m,smp,ante,Claude,LLM,1
+Biological scientists,N,m,smp,ante,Ministral,LLM,1
+Biological scientists,N,m,smp,ante,Qwen,LLM,1
+Biological scientists,N,m,smp,ante,LLaMA,LLM,1
+Biological scientists,N,m,smp,ante,DeepSeek,LLM,1
+Biological scientists,N,f,smp,ante,Google,NMT,1
+Biological scientists,N,f,smp,ante,DeepL,NMT,1
+Biological scientists,N,f,smp,ante,GPT5,LLM,1
+Biological scientists,N,f,smp,ante,Claude,LLM,1
+Biological scientists,N,f,smp,ante,Ministral,LLM,1
+Biological scientists,N,f,smp,ante,Qwen,LLM,1
+Biological scientists,N,f,smp,ante,LLaMA,LLM,1
+Biological scientists,N,f,smp,ante,DeepSeek,LLM,1
+Biological scientists,N,m,cpx,ante,Google,NMT,1
+Biological scientists,N,m,cpx,ante,DeepL,NMT,1
+Biological scientists,N,m,cpx,ante,GPT5,LLM,1
+Biological scientists,N,m,cpx,ante,Claude,LLM,1
+Biological scientists,N,m,cpx,ante,Ministral,LLM,1
+Biological scientists,N,m,cpx,ante,Qwen,LLM,1
+Biological scientists,N,m,cpx,ante,LLaMA,LLM,1
+Biological scientists,N,m,cpx,ante,DeepSeek,LLM,1
+Biological scientists,N,f,cpx,ante,Google,NMT,0
+Biological scientists,N,f,cpx,ante,DeepL,NMT,0
+Biological scientists,N,f,cpx,ante,GPT5,LLM,1
+Biological scientists,N,f,cpx,ante,Claude,LLM,1
+Biological scientists,N,f,cpx,ante,Ministral,LLM,1
+Biological scientists,N,f,cpx,ante,Qwen,LLM,1
+Biological scientists,N,f,cpx,ante,LLaMA,LLM,1
+Biological scientists,N,f,cpx,ante,DeepSeek,LLM,1
+Biological scientists,N,m,smp,post,Google,NMT,1
+Biological scientists,N,m,smp,post,DeepL,NMT,1
+Biological scientists,N,m,smp,post,GPT5,LLM,1
+Biological scientists,N,m,smp,post,Claude,LLM,1
+Biological scientists,N,m,smp,post,Ministral,LLM,1
+Biological scientists,N,m,smp,post,Qwen,LLM,1
+Biological scientists,N,m,smp,post,LLaMA,LLM,1
+Biological scientists,N,m,smp,post,DeepSeek,LLM,1
+Biological scientists,N,f,smp,post,Google,NMT,1
+Biological scientists,N,f,smp,post,DeepL,NMT,1
+Biological scientists,N,f,smp,post,GPT5,LLM,1
+Biological scientists,N,f,smp,post,Claude,LLM,1
+Biological scientists,N,f,smp,post,Ministral,LLM,1
+Biological scientists,N,f,smp,post,Qwen,LLM,1
+Biological scientists,N,f,smp,post,LLaMA,LLM,1
+Biological scientists,N,f,smp,post,DeepSeek,LLM,1
+Biological scientists,N,m,cpx,post,Google,NMT,1
+Biological scientists,N,m,cpx,post,DeepL,NMT,1
+Biological scientists,N,m,cpx,post,GPT5,LLM,1
+Biological scientists,N,m,cpx,post,Claude,LLM,1
+Biological scientists,N,m,cpx,post,Ministral,LLM,1
+Biological scientists,N,m,cpx,post,Qwen,LLM,1
+Biological scientists,N,m,cpx,post,LLaMA,LLM,1
+Biological scientists,N,m,cpx,post,DeepSeek,LLM,1
+Biological scientists,N,f,cpx,post,Google,NMT,1
+Biological scientists,N,f,cpx,post,DeepL,NMT,1
+Biological scientists,N,f,cpx,post,GPT5,LLM,1
+Biological scientists,N,f,cpx,post,Claude,LLM,1
+Biological scientists,N,f,cpx,post,Ministral,LLM,1
+Biological scientists,N,f,cpx,post,Qwen,LLM,1
+Biological scientists,N,f,cpx,post,LLaMA,LLM,0
+Biological scientists,N,f,cpx,post,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,ante,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,ante,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,ante,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,Google,NMT,0
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,DeepL,NMT,0
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,LLaMA,LLM,0
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,ante,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,smp,post,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,smp,post,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,LLaMA,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,m,cpx,post,DeepSeek,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,Google,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,DeepL,NMT,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,GPT5,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,Claude,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,Ministral,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,Qwen,LLM,1
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,LLaMA,LLM,0
+"Electrical, electronics, and electromechanical assemblers",N,f,cpx,post,DeepSeek,LLM,1
+Retail salespersons,N,m,smp,ante,Google,NMT,1
+Retail salespersons,N,m,smp,ante,DeepL,NMT,1
+Retail salespersons,N,m,smp,ante,GPT5,LLM,1
+Retail salespersons,N,m,smp,ante,Claude,LLM,1
+Retail salespersons,N,m,smp,ante,Ministral,LLM,1
+Retail salespersons,N,m,smp,ante,Qwen,LLM,1
+Retail salespersons,N,m,smp,ante,LLaMA,LLM,1
+Retail salespersons,N,m,smp,ante,DeepSeek,LLM,1
+Retail salespersons,N,f,smp,ante,Google,NMT,1
+Retail salespersons,N,f,smp,ante,DeepL,NMT,1
+Retail salespersons,N,f,smp,ante,GPT5,LLM,1
+Retail salespersons,N,f,smp,ante,Claude,LLM,1
+Retail salespersons,N,f,smp,ante,Ministral,LLM,1
+Retail salespersons,N,f,smp,ante,Qwen,LLM,1
+Retail salespersons,N,f,smp,ante,LLaMA,LLM,1
+Retail salespersons,N,f,smp,ante,DeepSeek,LLM,1
+Retail salespersons,N,m,cpx,ante,Google,NMT,1
+Retail salespersons,N,m,cpx,ante,DeepL,NMT,1
+Retail salespersons,N,m,cpx,ante,GPT5,LLM,1
+Retail salespersons,N,m,cpx,ante,Claude,LLM,1
+Retail salespersons,N,m,cpx,ante,Ministral,LLM,1
+Retail salespersons,N,m,cpx,ante,Qwen,LLM,1
+Retail salespersons,N,m,cpx,ante,LLaMA,LLM,1
+Retail salespersons,N,m,cpx,ante,DeepSeek,LLM,1
+Retail salespersons,N,f,cpx,ante,Google,NMT,0
+Retail salespersons,N,f,cpx,ante,DeepL,NMT,1
+Retail salespersons,N,f,cpx,ante,GPT5,LLM,1
+Retail salespersons,N,f,cpx,ante,Claude,LLM,1
+Retail salespersons,N,f,cpx,ante,Ministral,LLM,1
+Retail salespersons,N,f,cpx,ante,Qwen,LLM,1
+Retail salespersons,N,f,cpx,ante,LLaMA,LLM,1
+Retail salespersons,N,f,cpx,ante,DeepSeek,LLM,1
+Retail salespersons,N,m,smp,post,Google,NMT,1
+Retail salespersons,N,m,smp,post,DeepL,NMT,1
+Retail salespersons,N,m,smp,post,GPT5,LLM,1
+Retail salespersons,N,m,smp,post,Claude,LLM,1
+Retail salespersons,N,m,smp,post,Ministral,LLM,1
+Retail salespersons,N,m,smp,post,Qwen,LLM,1
+Retail salespersons,N,m,smp,post,LLaMA,LLM,1
+Retail salespersons,N,m,smp,post,DeepSeek,LLM,1
+Retail salespersons,N,f,smp,post,Google,NMT,1
+Retail salespersons,N,f,smp,post,DeepL,NMT,1
+Retail salespersons,N,f,smp,post,GPT5,LLM,1
+Retail salespersons,N,f,smp,post,Claude,LLM,1
+Retail salespersons,N,f,smp,post,Ministral,LLM,1
+Retail salespersons,N,f,smp,post,Qwen,LLM,1
+Retail salespersons,N,f,smp,post,LLaMA,LLM,1
+Retail salespersons,N,f,smp,post,DeepSeek,LLM,1
+Retail salespersons,N,m,cpx,post,Google,NMT,1
+Retail salespersons,N,m,cpx,post,DeepL,NMT,1
+Retail salespersons,N,m,cpx,post,GPT5,LLM,1
+Retail salespersons,N,m,cpx,post,Claude,LLM,1
+Retail salespersons,N,m,cpx,post,Ministral,LLM,1
+Retail salespersons,N,m,cpx,post,Qwen,LLM,1
+Retail salespersons,N,m,cpx,post,LLaMA,LLM,1
+Retail salespersons,N,m,cpx,post,DeepSeek,LLM,1
+Retail salespersons,N,f,cpx,post,Google,NMT,1
+Retail salespersons,N,f,cpx,post,DeepL,NMT,1
+Retail salespersons,N,f,cpx,post,GPT5,LLM,1
+Retail salespersons,N,f,cpx,post,Claude,LLM,1
+Retail salespersons,N,f,cpx,post,Ministral,LLM,1
+Retail salespersons,N,f,cpx,post,Qwen,LLM,1
+Retail salespersons,N,f,cpx,post,LLaMA,LLM,0
+Retail salespersons,N,f,cpx,post,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,Google,NMT,1
+Real estate brokers and sales agents,N,m,smp,ante,DeepL,NMT,1
+Real estate brokers and sales agents,N,m,smp,ante,GPT5,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,Claude,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,Ministral,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,Qwen,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,LLaMA,LLM,1
+Real estate brokers and sales agents,N,m,smp,ante,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,Google,NMT,1
+Real estate brokers and sales agents,N,f,smp,ante,DeepL,NMT,1
+Real estate brokers and sales agents,N,f,smp,ante,GPT5,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,Claude,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,Ministral,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,Qwen,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,LLaMA,LLM,1
+Real estate brokers and sales agents,N,f,smp,ante,DeepSeek,LLM,0
+Real estate brokers and sales agents,N,m,cpx,ante,Google,NMT,1
+Real estate brokers and sales agents,N,m,cpx,ante,DeepL,NMT,1
+Real estate brokers and sales agents,N,m,cpx,ante,GPT5,LLM,1
+Real estate brokers and sales agents,N,m,cpx,ante,Claude,LLM,1
+Real estate brokers and sales agents,N,m,cpx,ante,Ministral,LLM,1
+Real estate brokers and sales agents,N,m,cpx,ante,Qwen,LLM,1
+Real estate brokers and sales agents,N,m,cpx,ante,LLaMA,LLM,1
+Real estate brokers and sales agents,N,m,cpx,ante,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,f,cpx,ante,Google,NMT,0
+Real estate brokers and sales agents,N,f,cpx,ante,DeepL,NMT,0
+Real estate brokers and sales agents,N,f,cpx,ante,GPT5,LLM,1
+Real estate brokers and sales agents,N,f,cpx,ante,Claude,LLM,1
+Real estate brokers and sales agents,N,f,cpx,ante,Ministral,LLM,1
+Real estate brokers and sales agents,N,f,cpx,ante,Qwen,LLM,1
+Real estate brokers and sales agents,N,f,cpx,ante,LLaMA,LLM,0
+Real estate brokers and sales agents,N,f,cpx,ante,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,Google,NMT,1
+Real estate brokers and sales agents,N,m,smp,post,DeepL,NMT,1
+Real estate brokers and sales agents,N,m,smp,post,GPT5,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,Claude,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,Ministral,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,Qwen,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,LLaMA,LLM,1
+Real estate brokers and sales agents,N,m,smp,post,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,Google,NMT,1
+Real estate brokers and sales agents,N,f,smp,post,DeepL,NMT,1
+Real estate brokers and sales agents,N,f,smp,post,GPT5,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,Claude,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,Ministral,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,Qwen,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,LLaMA,LLM,1
+Real estate brokers and sales agents,N,f,smp,post,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,Google,NMT,1
+Real estate brokers and sales agents,N,m,cpx,post,DeepL,NMT,1
+Real estate brokers and sales agents,N,m,cpx,post,GPT5,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,Claude,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,Ministral,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,Qwen,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,LLaMA,LLM,1
+Real estate brokers and sales agents,N,m,cpx,post,DeepSeek,LLM,1
+Real estate brokers and sales agents,N,f,cpx,post,Google,NMT,1
+Real estate brokers and sales agents,N,f,cpx,post,DeepL,NMT,1
+Real estate brokers and sales agents,N,f,cpx,post,GPT5,LLM,1
+Real estate brokers and sales agents,N,f,cpx,post,Claude,LLM,1
+Real estate brokers and sales agents,N,f,cpx,post,Ministral,LLM,1
+Real estate brokers and sales agents,N,f,cpx,post,Qwen,LLM,1
+Real estate brokers and sales agents,N,f,cpx,post,LLaMA,LLM,0
+Real estate brokers and sales agents,N,f,cpx,post,DeepSeek,LLM,1
+accountant,N,m,smp,ante,Google,NMT,1
+accountant,N,m,smp,ante,DeepL,NMT,1
+accountant,N,m,smp,ante,GPT5,LLM,1
+accountant,N,m,smp,ante,Claude,LLM,1
+accountant,N,m,smp,ante,Ministral,LLM,0
+accountant,N,m,smp,ante,Qwen,LLM,1
+accountant,N,m,smp,ante,LLaMA,LLM,1
+accountant,N,m,smp,ante,DeepSeek,LLM,1
+accountant,N,f,smp,ante,Google,NMT,1
+accountant,N,f,smp,ante,DeepL,NMT,1
+accountant,N,f,smp,ante,GPT5,LLM,1
+accountant,N,f,smp,ante,Claude,LLM,1
+accountant,N,f,smp,ante,Ministral,LLM,1
+accountant,N,f,smp,ante,Qwen,LLM,1
+accountant,N,f,smp,ante,LLaMA,LLM,1
+accountant,N,f,smp,ante,DeepSeek,LLM,1
+accountant,N,m,cpx,ante,Google,NMT,1
+accountant,N,m,cpx,ante,DeepL,NMT,1
+accountant,N,m,cpx,ante,GPT5,LLM,1
+accountant,N,m,cpx,ante,Claude,LLM,1
+accountant,N,m,cpx,ante,Ministral,LLM,0
+accountant,N,m,cpx,ante,Qwen,LLM,1
+accountant,N,m,cpx,ante,LLaMA,LLM,1
+accountant,N,m,cpx,ante,DeepSeek,LLM,1
+accountant,N,f,cpx,ante,Google,NMT,0
+accountant,N,f,cpx,ante,DeepL,NMT,0
+accountant,N,f,cpx,ante,GPT5,LLM,1
+accountant,N,f,cpx,ante,Claude,LLM,1
+accountant,N,f,cpx,ante,Ministral,LLM,1
+accountant,N,f,cpx,ante,Qwen,LLM,1
+accountant,N,f,cpx,ante,LLaMA,LLM,1
+accountant,N,f,cpx,ante,DeepSeek,LLM,1
+accountant,N,m,smp,post,Google,NMT,1
+accountant,N,m,smp,post,DeepL,NMT,1
+accountant,N,m,smp,post,GPT5,LLM,1
+accountant,N,m,smp,post,Claude,LLM,1
+accountant,N,m,smp,post,Ministral,LLM,1
+accountant,N,m,smp,post,Qwen,LLM,1
+accountant,N,m,smp,post,LLaMA,LLM,1
+accountant,N,m,smp,post,DeepSeek,LLM,1
+accountant,N,f,smp,post,Google,NMT,1
+accountant,N,f,smp,post,DeepL,NMT,1
+accountant,N,f,smp,post,GPT5,LLM,1
+accountant,N,f,smp,post,Claude,LLM,1
+accountant,N,f,smp,post,Ministral,LLM,1
+accountant,N,f,smp,post,Qwen,LLM,1
+accountant,N,f,smp,post,LLaMA,LLM,1
+accountant,N,f,smp,post,DeepSeek,LLM,1
+accountant,N,m,cpx,post,Google,NMT,1
+accountant,N,m,cpx,post,DeepL,NMT,1
+accountant,N,m,cpx,post,GPT5,LLM,1
+accountant,N,m,cpx,post,Claude,LLM,1
+accountant,N,m,cpx,post,Ministral,LLM,1
+accountant,N,m,cpx,post,Qwen,LLM,1
+accountant,N,m,cpx,post,LLaMA,LLM,1
+accountant,N,m,cpx,post,DeepSeek,LLM,1
+accountant,N,f,cpx,post,Google,NMT,1
+accountant,N,f,cpx,post,DeepL,NMT,1
+accountant,N,f,cpx,post,GPT5,LLM,1
+accountant,N,f,cpx,post,Claude,LLM,1
+accountant,N,f,cpx,post,Ministral,LLM,1
+accountant,N,f,cpx,post,Qwen,LLM,1
+accountant,N,f,cpx,post,LLaMA,LLM,0
+accountant,N,f,cpx,post,DeepSeek,LLM,1
+auditor,N,m,smp,ante,Google,NMT,1
+auditor,N,m,smp,ante,DeepL,NMT,1
+auditor,N,m,smp,ante,GPT5,LLM,1
+auditor,N,m,smp,ante,Claude,LLM,1
+auditor,N,m,smp,ante,Ministral,LLM,1
+auditor,N,m,smp,ante,Qwen,LLM,1
+auditor,N,m,smp,ante,LLaMA,LLM,1
+auditor,N,m,smp,ante,DeepSeek,LLM,1
+auditor,N,f,smp,ante,Google,NMT,1
+auditor,N,f,smp,ante,DeepL,NMT,1
+auditor,N,f,smp,ante,GPT5,LLM,1
+auditor,N,f,smp,ante,Claude,LLM,1
+auditor,N,f,smp,ante,Ministral,LLM,1
+auditor,N,f,smp,ante,Qwen,LLM,1
+auditor,N,f,smp,ante,LLaMA,LLM,1
+auditor,N,f,smp,ante,DeepSeek,LLM,0
+auditor,N,m,cpx,ante,Google,NMT,1
+auditor,N,m,cpx,ante,DeepL,NMT,1
+auditor,N,m,cpx,ante,GPT5,LLM,1
+auditor,N,m,cpx,ante,Claude,LLM,1
+auditor,N,m,cpx,ante,Ministral,LLM,1
+auditor,N,m,cpx,ante,Qwen,LLM,1
+auditor,N,m,cpx,ante,LLaMA,LLM,1
+auditor,N,m,cpx,ante,DeepSeek,LLM,1
+auditor,N,f,cpx,ante,Google,NMT,1
+auditor,N,f,cpx,ante,DeepL,NMT,0
+auditor,N,f,cpx,ante,GPT5,LLM,1
+auditor,N,f,cpx,ante,Claude,LLM,1
+auditor,N,f,cpx,ante,Ministral,LLM,1
+auditor,N,f,cpx,ante,Qwen,LLM,1
+auditor,N,f,cpx,ante,LLaMA,LLM,1
+auditor,N,f,cpx,ante,DeepSeek,LLM,1
+auditor,N,m,smp,post,Google,NMT,1
+auditor,N,m,smp,post,DeepL,NMT,1
+auditor,N,m,smp,post,GPT5,LLM,1
+auditor,N,m,smp,post,Claude,LLM,1
+auditor,N,m,smp,post,Ministral,LLM,1
+auditor,N,m,smp,post,Qwen,LLM,1
+auditor,N,m,smp,post,LLaMA,LLM,1
+auditor,N,m,smp,post,DeepSeek,LLM,1
+auditor,N,f,smp,post,Google,NMT,1
+auditor,N,f,smp,post,DeepL,NMT,1
+auditor,N,f,smp,post,GPT5,LLM,1
+auditor,N,f,smp,post,Claude,LLM,1
+auditor,N,f,smp,post,Ministral,LLM,1
+auditor,N,f,smp,post,Qwen,LLM,1
+auditor,N,f,smp,post,LLaMA,LLM,1
+auditor,N,f,smp,post,DeepSeek,LLM,1
+auditor,N,m,cpx,post,Google,NMT,1
+auditor,N,m,cpx,post,DeepL,NMT,1
+auditor,N,m,cpx,post,GPT5,LLM,1
+auditor,N,m,cpx,post,Claude,LLM,1
+auditor,N,m,cpx,post,Ministral,LLM,1
+auditor,N,m,cpx,post,Qwen,LLM,1
+auditor,N,m,cpx,post,LLaMA,LLM,1
+auditor,N,m,cpx,post,DeepSeek,LLM,1
+auditor,N,f,cpx,post,Google,NMT,1
+auditor,N,f,cpx,post,DeepL,NMT,1
+auditor,N,f,cpx,post,GPT5,LLM,1
+auditor,N,f,cpx,post,Claude,LLM,1
+auditor,N,f,cpx,post,Ministral,LLM,0
+auditor,N,f,cpx,post,Qwen,LLM,1
+auditor,N,f,cpx,post,LLaMA,LLM,0
+auditor,N,f,cpx,post,DeepSeek,LLM,1
+Pharmacists,N,m,smp,ante,Google,NMT,1
+Pharmacists,N,m,smp,ante,DeepL,NMT,1
+Pharmacists,N,m,smp,ante,GPT5,LLM,1
+Pharmacists,N,m,smp,ante,Claude,LLM,1
+Pharmacists,N,m,smp,ante,Ministral,LLM,1
+Pharmacists,N,m,smp,ante,Qwen,LLM,1
+Pharmacists,N,m,smp,ante,LLaMA,LLM,1
+Pharmacists,N,m,smp,ante,DeepSeek,LLM,1
+Pharmacists,N,f,smp,ante,Google,NMT,1
+Pharmacists,N,f,smp,ante,DeepL,NMT,1
+Pharmacists,N,f,smp,ante,GPT5,LLM,1
+Pharmacists,N,f,smp,ante,Claude,LLM,1
+Pharmacists,N,f,smp,ante,Ministral,LLM,1
+Pharmacists,N,f,smp,ante,Qwen,LLM,1
+Pharmacists,N,f,smp,ante,LLaMA,LLM,1
+Pharmacists,N,f,smp,ante,DeepSeek,LLM,1
+Pharmacists,N,m,cpx,ante,Google,NMT,1
+Pharmacists,N,m,cpx,ante,DeepL,NMT,1
+Pharmacists,N,m,cpx,ante,GPT5,LLM,1
+Pharmacists,N,m,cpx,ante,Claude,LLM,1
+Pharmacists,N,m,cpx,ante,Ministral,LLM,1
+Pharmacists,N,m,cpx,ante,Qwen,LLM,1
+Pharmacists,N,m,cpx,ante,LLaMA,LLM,1
+Pharmacists,N,m,cpx,ante,DeepSeek,LLM,1
+Pharmacists,N,f,cpx,ante,Google,NMT,0
+Pharmacists,N,f,cpx,ante,DeepL,NMT,0
+Pharmacists,N,f,cpx,ante,GPT5,LLM,1
+Pharmacists,N,f,cpx,ante,Claude,LLM,1
+Pharmacists,N,f,cpx,ante,Ministral,LLM,1
+Pharmacists,N,f,cpx,ante,Qwen,LLM,1
+Pharmacists,N,f,cpx,ante,LLaMA,LLM,1
+Pharmacists,N,f,cpx,ante,DeepSeek,LLM,1
+Pharmacists,N,m,smp,post,Google,NMT,1
+Pharmacists,N,m,smp,post,DeepL,NMT,1
+Pharmacists,N,m,smp,post,GPT5,LLM,1
+Pharmacists,N,m,smp,post,Claude,LLM,1
+Pharmacists,N,m,smp,post,Ministral,LLM,1
+Pharmacists,N,m,smp,post,Qwen,LLM,1
+Pharmacists,N,m,smp,post,LLaMA,LLM,1
+Pharmacists,N,m,smp,post,DeepSeek,LLM,1
+Pharmacists,N,f,smp,post,Google,NMT,1
+Pharmacists,N,f,smp,post,DeepL,NMT,1
+Pharmacists,N,f,smp,post,GPT5,LLM,1
+Pharmacists,N,f,smp,post,Claude,LLM,1
+Pharmacists,N,f,smp,post,Ministral,LLM,1
+Pharmacists,N,f,smp,post,Qwen,LLM,1
+Pharmacists,N,f,smp,post,LLaMA,LLM,1
+Pharmacists,N,f,smp,post,DeepSeek,LLM,1
+Pharmacists,N,m,cpx,post,Google,NMT,1
+Pharmacists,N,m,cpx,post,DeepL,NMT,1
+Pharmacists,N,m,cpx,post,GPT5,LLM,1
+Pharmacists,N,m,cpx,post,Claude,LLM,1
+Pharmacists,N,m,cpx,post,Ministral,LLM,1
+Pharmacists,N,m,cpx,post,Qwen,LLM,1
+Pharmacists,N,m,cpx,post,LLaMA,LLM,1
+Pharmacists,N,m,cpx,post,DeepSeek,LLM,1
+Pharmacists,N,f,cpx,post,Google,NMT,1
+Pharmacists,N,f,cpx,post,DeepL,NMT,1
+Pharmacists,N,f,cpx,post,GPT5,LLM,1
+Pharmacists,N,f,cpx,post,Claude,LLM,1
+Pharmacists,N,f,cpx,post,Ministral,LLM,1
+Pharmacists,N,f,cpx,post,Qwen,LLM,1
+Pharmacists,N,f,cpx,post,LLaMA,LLM,0
+Pharmacists,N,f,cpx,post,DeepSeek,LLM,1
+Teacher,F,m,smp,ante,Google,NMT,1
+Teacher,F,m,smp,ante,DeepL,NMT,1
+Teacher,F,m,smp,ante,GPT5,LLM,1
+Teacher,F,m,smp,ante,Claude,LLM,1
+Teacher,F,m,smp,ante,Ministral,LLM,1
+Teacher,F,m,smp,ante,Qwen,LLM,1
+Teacher,F,m,smp,ante,LLaMA,LLM,1
+Teacher,F,m,smp,ante,DeepSeek,LLM,1
+Teacher,F,f,smp,ante,Google,NMT,1
+Teacher,F,f,smp,ante,DeepL,NMT,1
+Teacher,F,f,smp,ante,GPT5,LLM,1
+Teacher,F,f,smp,ante,Claude,LLM,1
+Teacher,F,f,smp,ante,Ministral,LLM,1
+Teacher,F,f,smp,ante,Qwen,LLM,1
+Teacher,F,f,smp,ante,LLaMA,LLM,1
+Teacher,F,f,smp,ante,DeepSeek,LLM,1
+Teacher,F,m,cpx,ante,Google,NMT,0
+Teacher,F,m,cpx,ante,DeepL,NMT,1
+Teacher,F,m,cpx,ante,GPT5,LLM,1
+Teacher,F,m,cpx,ante,Claude,LLM,1
+Teacher,F,m,cpx,ante,Ministral,LLM,1
+Teacher,F,m,cpx,ante,Qwen,LLM,1
+Teacher,F,m,cpx,ante,LLaMA,LLM,1
+Teacher,F,m,cpx,ante,DeepSeek,LLM,1
+Teacher,F,f,cpx,ante,Google,NMT,1
+Teacher,F,f,cpx,ante,DeepL,NMT,1
+Teacher,F,f,cpx,ante,GPT5,LLM,1
+Teacher,F,f,cpx,ante,Claude,LLM,1
+Teacher,F,f,cpx,ante,Ministral,LLM,1
+Teacher,F,f,cpx,ante,Qwen,LLM,1
+Teacher,F,f,cpx,ante,LLaMA,LLM,1
+Teacher,F,f,cpx,ante,DeepSeek,LLM,1
+Teacher,F,m,smp,post,Google,NMT,1
+Teacher,F,m,smp,post,DeepL,NMT,1
+Teacher,F,m,smp,post,GPT5,LLM,1
+Teacher,F,m,smp,post,Claude,LLM,1
+Teacher,F,m,smp,post,Ministral,LLM,1
+Teacher,F,m,smp,post,Qwen,LLM,1
+Teacher,F,m,smp,post,LLaMA,LLM,1
+Teacher,F,m,smp,post,DeepSeek,LLM,1
+Teacher,F,f,smp,post,Google,NMT,1
+Teacher,F,f,smp,post,DeepL,NMT,1
+Teacher,F,f,smp,post,GPT5,LLM,1
+Teacher,F,f,smp,post,Claude,LLM,1
+Teacher,F,f,smp,post,Ministral,LLM,1
+Teacher,F,f,smp,post,Qwen,LLM,1
+Teacher,F,f,smp,post,LLaMA,LLM,1
+Teacher,F,f,smp,post,DeepSeek,LLM,1
+Teacher,F,m,cpx,post,Google,NMT,1
+Teacher,F,m,cpx,post,DeepL,NMT,1
+Teacher,F,m,cpx,post,GPT5,LLM,1
+Teacher,F,m,cpx,post,Claude,LLM,1
+Teacher,F,m,cpx,post,Ministral,LLM,1
+Teacher,F,m,cpx,post,Qwen,LLM,1
+Teacher,F,m,cpx,post,LLaMA,LLM,1
+Teacher,F,m,cpx,post,DeepSeek,LLM,1
+Teacher,F,f,cpx,post,Google,NMT,1
+Teacher,F,f,cpx,post,DeepL,NMT,1
+Teacher,F,f,cpx,post,GPT5,LLM,1
+Teacher,F,f,cpx,post,Claude,LLM,1
+Teacher,F,f,cpx,post,Ministral,LLM,1
+Teacher,F,f,cpx,post,Qwen,LLM,1
+Teacher,F,f,cpx,post,LLaMA,LLM,1
+Teacher,F,f,cpx,post,DeepSeek,LLM,1
+Writers and authors ,F,m,smp,ante,Google,NMT,1
+Writers and authors ,F,m,smp,ante,DeepL,NMT,1
+Writers and authors ,F,m,smp,ante,GPT5,LLM,1
+Writers and authors ,F,m,smp,ante,Claude,LLM,1
+Writers and authors ,F,m,smp,ante,Ministral,LLM,1
+Writers and authors ,F,m,smp,ante,Qwen,LLM,1
+Writers and authors ,F,m,smp,ante,LLaMA,LLM,1
+Writers and authors ,F,m,smp,ante,DeepSeek,LLM,1
+Writers and authors ,F,f,smp,ante,Google,NMT,1
+Writers and authors ,F,f,smp,ante,DeepL,NMT,1
+Writers and authors ,F,f,smp,ante,GPT5,LLM,1
+Writers and authors ,F,f,smp,ante,Claude,LLM,1
+Writers and authors ,F,f,smp,ante,Ministral,LLM,1
+Writers and authors ,F,f,smp,ante,Qwen,LLM,1
+Writers and authors ,F,f,smp,ante,LLaMA,LLM,1
+Writers and authors ,F,f,smp,ante,DeepSeek,LLM,1
+Writers and authors ,F,m,cpx,ante,Google,NMT,1
+Writers and authors ,F,m,cpx,ante,DeepL,NMT,1
+Writers and authors ,F,m,cpx,ante,GPT5,LLM,1
+Writers and authors ,F,m,cpx,ante,Claude,LLM,1
+Writers and authors ,F,m,cpx,ante,Ministral,LLM,1
+Writers and authors ,F,m,cpx,ante,Qwen,LLM,1
+Writers and authors ,F,m,cpx,ante,LLaMA,LLM,1
+Writers and authors ,F,m,cpx,ante,DeepSeek,LLM,1
+Writers and authors ,F,f,cpx,ante,Google,NMT,0
+Writers and authors ,F,f,cpx,ante,DeepL,NMT,0
+Writers and authors ,F,f,cpx,ante,GPT5,LLM,1
+Writers and authors ,F,f,cpx,ante,Claude,LLM,1
+Writers and authors ,F,f,cpx,ante,Ministral,LLM,1
+Writers and authors ,F,f,cpx,ante,Qwen,LLM,1
+Writers and authors ,F,f,cpx,ante,LLaMA,LLM,1
+Writers and authors ,F,f,cpx,ante,DeepSeek,LLM,1
+Writers and authors ,F,m,smp,post,Google,NMT,1
+Writers and authors ,F,m,smp,post,DeepL,NMT,1
+Writers and authors ,F,m,smp,post,GPT5,LLM,1
+Writers and authors ,F,m,smp,post,Claude,LLM,1
+Writers and authors ,F,m,smp,post,Ministral,LLM,1
+Writers and authors ,F,m,smp,post,Qwen,LLM,1
+Writers and authors ,F,m,smp,post,LLaMA,LLM,1
+Writers and authors ,F,m,smp,post,DeepSeek,LLM,1
+Writers and authors ,F,f,smp,post,Google,NMT,1
+Writers and authors ,F,f,smp,post,DeepL,NMT,1
+Writers and authors ,F,f,smp,post,GPT5,LLM,1
+Writers and authors ,F,f,smp,post,Claude,LLM,1
+Writers and authors ,F,f,smp,post,Ministral,LLM,1
+Writers and authors ,F,f,smp,post,Qwen,LLM,1
+Writers and authors ,F,f,smp,post,LLaMA,LLM,1
+Writers and authors ,F,f,smp,post,DeepSeek,LLM,1
+Writers and authors ,F,m,cpx,post,Google,NMT,1
+Writers and authors ,F,m,cpx,post,DeepL,NMT,1
+Writers and authors ,F,m,cpx,post,GPT5,LLM,1
+Writers and authors ,F,m,cpx,post,Claude,LLM,1
+Writers and authors ,F,m,cpx,post,Ministral,LLM,1
+Writers and authors ,F,m,cpx,post,Qwen,LLM,1
+Writers and authors ,F,m,cpx,post,LLaMA,LLM,1
+Writers and authors ,F,m,cpx,post,DeepSeek,LLM,1
+Writers and authors ,F,f,cpx,post,Google,NMT,1
+Writers and authors ,F,f,cpx,post,DeepL,NMT,1
+Writers and authors ,F,f,cpx,post,GPT5,LLM,1
+Writers and authors ,F,f,cpx,post,Claude,LLM,1
+Writers and authors ,F,f,cpx,post,Ministral,LLM,0
+Writers and authors ,F,f,cpx,post,Qwen,LLM,1
+Writers and authors ,F,f,cpx,post,LLaMA,LLM,0
+Writers and authors ,F,f,cpx,post,DeepSeek,LLM,1
+Bakers,F,m,smp,ante,Google,NMT,1
+Bakers,F,m,smp,ante,DeepL,NMT,1
+Bakers,F,m,smp,ante,GPT5,LLM,1
+Bakers,F,m,smp,ante,Claude,LLM,1
+Bakers,F,m,smp,ante,Ministral,LLM,1
+Bakers,F,m,smp,ante,Qwen,LLM,1
+Bakers,F,m,smp,ante,LLaMA,LLM,1
+Bakers,F,m,smp,ante,DeepSeek,LLM,1
+Bakers,F,f,smp,ante,Google,NMT,1
+Bakers,F,f,smp,ante,DeepL,NMT,1
+Bakers,F,f,smp,ante,GPT5,LLM,1
+Bakers,F,f,smp,ante,Claude,LLM,1
+Bakers,F,f,smp,ante,Ministral,LLM,1
+Bakers,F,f,smp,ante,Qwen,LLM,1
+Bakers,F,f,smp,ante,LLaMA,LLM,1
+Bakers,F,f,smp,ante,DeepSeek,LLM,1
+Bakers,F,m,cpx,ante,Google,NMT,1
+Bakers,F,m,cpx,ante,DeepL,NMT,1
+Bakers,F,m,cpx,ante,GPT5,LLM,1
+Bakers,F,m,cpx,ante,Claude,LLM,1
+Bakers,F,m,cpx,ante,Ministral,LLM,1
+Bakers,F,m,cpx,ante,Qwen,LLM,1
+Bakers,F,m,cpx,ante,LLaMA,LLM,1
+Bakers,F,m,cpx,ante,DeepSeek,LLM,1
+Bakers,F,f,cpx,ante,Google,NMT,0
+Bakers,F,f,cpx,ante,DeepL,NMT,0
+Bakers,F,f,cpx,ante,GPT5,LLM,1
+Bakers,F,f,cpx,ante,Claude,LLM,1
+Bakers,F,f,cpx,ante,Ministral,LLM,1
+Bakers,F,f,cpx,ante,Qwen,LLM,1
+Bakers,F,f,cpx,ante,LLaMA,LLM,0
+Bakers,F,f,cpx,ante,DeepSeek,LLM,1
+Bakers,F,m,smp,post,Google,NMT,1
+Bakers,F,m,smp,post,DeepL,NMT,1
+Bakers,F,m,smp,post,GPT5,LLM,1
+Bakers,F,m,smp,post,Claude,LLM,1
+Bakers,F,m,smp,post,Ministral,LLM,1
+Bakers,F,m,smp,post,Qwen,LLM,1
+Bakers,F,m,smp,post,LLaMA,LLM,1
+Bakers,F,m,smp,post,DeepSeek,LLM,1
+Bakers,F,f,smp,post,Google,NMT,1
+Bakers,F,f,smp,post,DeepL,NMT,1
+Bakers,F,f,smp,post,GPT5,LLM,1
+Bakers,F,f,smp,post,Claude,LLM,1
+Bakers,F,f,smp,post,Ministral,LLM,1
+Bakers,F,f,smp,post,Qwen,LLM,1
+Bakers,F,f,smp,post,LLaMA,LLM,1
+Bakers,F,f,smp,post,DeepSeek,LLM,1
+Bakers,F,m,cpx,post,Google,NMT,1
+Bakers,F,m,cpx,post,DeepL,NMT,1
+Bakers,F,m,cpx,post,GPT5,LLM,1
+Bakers,F,m,cpx,post,Claude,LLM,1
+Bakers,F,m,cpx,post,Ministral,LLM,1
+Bakers,F,m,cpx,post,Qwen,LLM,1
+Bakers,F,m,cpx,post,LLaMA,LLM,1
+Bakers,F,m,cpx,post,DeepSeek,LLM,1
+Bakers,F,f,cpx,post,Google,NMT,1
+Bakers,F,f,cpx,post,DeepL,NMT,1
+Bakers,F,f,cpx,post,GPT5,LLM,1
+Bakers,F,f,cpx,post,Claude,LLM,1
+Bakers,F,f,cpx,post,Ministral,LLM,0
+Bakers,F,f,cpx,post,Qwen,LLM,1
+Bakers,F,f,cpx,post,LLaMA,LLM,1
+Bakers,F,f,cpx,post,DeepSeek,LLM,1
+Waiters and waitresses,F,m,smp,ante,Google,NMT,1
+Waiters and waitresses,F,m,smp,ante,DeepL,NMT,1
+Waiters and waitresses,F,m,smp,ante,GPT5,LLM,1
+Waiters and waitresses,F,m,smp,ante,Claude,LLM,1
+Waiters and waitresses,F,m,smp,ante,Ministral,LLM,1
+Waiters and waitresses,F,m,smp,ante,Qwen,LLM,1
+Waiters and waitresses,F,m,smp,ante,LLaMA,LLM,1
+Waiters and waitresses,F,m,smp,ante,DeepSeek,LLM,1
+Waiters and waitresses,F,f,smp,ante,Google,NMT,1
+Waiters and waitresses,F,f,smp,ante,DeepL,NMT,1
+Waiters and waitresses,F,f,smp,ante,GPT5,LLM,1
+Waiters and waitresses,F,f,smp,ante,Claude,LLM,1
+Waiters and waitresses,F,f,smp,ante,Ministral,LLM,1
+Waiters and waitresses,F,f,smp,ante,Qwen,LLM,1
+Waiters and waitresses,F,f,smp,ante,LLaMA,LLM,1
+Waiters and waitresses,F,f,smp,ante,DeepSeek,LLM,1
+Waiters and waitresses,F,m,cpx,ante,Google,NMT,1
+Waiters and waitresses,F,m,cpx,ante,DeepL,NMT,1
+Waiters and waitresses,F,m,cpx,ante,GPT5,LLM,1
+Waiters and waitresses,F,m,cpx,ante,Claude,LLM,1
+Waiters and waitresses,F,m,cpx,ante,Ministral,LLM,1
+Waiters and waitresses,F,m,cpx,ante,Qwen,LLM,1
+Waiters and waitresses,F,m,cpx,ante,LLaMA,LLM,1
+Waiters and waitresses,F,m,cpx,ante,DeepSeek,LLM,1
+Waiters and waitresses,F,f,cpx,ante,Google,NMT,1
+Waiters and waitresses,F,f,cpx,ante,DeepL,NMT,1
+Waiters and waitresses,F,f,cpx,ante,GPT5,LLM,1
+Waiters and waitresses,F,f,cpx,ante,Claude,LLM,1
+Waiters and waitresses,F,f,cpx,ante,Ministral,LLM,1
+Waiters and waitresses,F,f,cpx,ante,Qwen,LLM,1
+Waiters and waitresses,F,f,cpx,ante,LLaMA,LLM,1
+Waiters and waitresses,F,f,cpx,ante,DeepSeek,LLM,1
+Waiters and waitresses,F,m,smp,post,Google,NMT,1
+Waiters and waitresses,F,m,smp,post,DeepL,NMT,1
+Waiters and waitresses,F,m,smp,post,GPT5,LLM,1
+Waiters and waitresses,F,m,smp,post,Claude,LLM,1
+Waiters and waitresses,F,m,smp,post,Ministral,LLM,1
+Waiters and waitresses,F,m,smp,post,Qwen,LLM,1
+Waiters and waitresses,F,m,smp,post,LLaMA,LLM,1
+Waiters and waitresses,F,m,smp,post,DeepSeek,LLM,1
+Waiters and waitresses,F,f,smp,post,Google,NMT,1
+Waiters and waitresses,F,f,smp,post,DeepL,NMT,1
+Waiters and waitresses,F,f,smp,post,GPT5,LLM,1
+Waiters and waitresses,F,f,smp,post,Claude,LLM,1
+Waiters and waitresses,F,f,smp,post,Ministral,LLM,1
+Waiters and waitresses,F,f,smp,post,Qwen,LLM,1
+Waiters and waitresses,F,f,smp,post,LLaMA,LLM,1
+Waiters and waitresses,F,f,smp,post,DeepSeek,LLM,1
+Waiters and waitresses,F,m,cpx,post,Google,NMT,1
+Waiters and waitresses,F,m,cpx,post,DeepL,NMT,1
+Waiters and waitresses,F,m,cpx,post,GPT5,LLM,1
+Waiters and waitresses,F,m,cpx,post,Claude,LLM,1
+Waiters and waitresses,F,m,cpx,post,Ministral,LLM,1
+Waiters and waitresses,F,m,cpx,post,Qwen,LLM,1
+Waiters and waitresses,F,m,cpx,post,LLaMA,LLM,1
+Waiters and waitresses,F,m,cpx,post,DeepSeek,LLM,1
+Waiters and waitresses,F,f,cpx,post,Google,NMT,1
+Waiters and waitresses,F,f,cpx,post,DeepL,NMT,1
+Waiters and waitresses,F,f,cpx,post,GPT5,LLM,1
+Waiters and waitresses,F,f,cpx,post,Claude,LLM,1
+Waiters and waitresses,F,f,cpx,post,Ministral,LLM,1
+Waiters and waitresses,F,f,cpx,post,Qwen,LLM,1
+Waiters and waitresses,F,f,cpx,post,LLaMA,LLM,0
+Waiters and waitresses,F,f,cpx,post,DeepSeek,LLM,1
+Veterinarians,F,m,smp,ante,Google,NMT,1
+Veterinarians,F,m,smp,ante,DeepL,NMT,1
+Veterinarians,F,m,smp,ante,GPT5,LLM,1
+Veterinarians,F,m,smp,ante,Claude,LLM,1
+Veterinarians,F,m,smp,ante,Ministral,LLM,1
+Veterinarians,F,m,smp,ante,Qwen,LLM,1
+Veterinarians,F,m,smp,ante,LLaMA,LLM,1
+Veterinarians,F,m,smp,ante,DeepSeek,LLM,1
+Veterinarians,F,f,smp,ante,Google,NMT,1
+Veterinarians,F,f,smp,ante,DeepL,NMT,1
+Veterinarians,F,f,smp,ante,GPT5,LLM,1
+Veterinarians,F,f,smp,ante,Claude,LLM,1
+Veterinarians,F,f,smp,ante,Ministral,LLM,1
+Veterinarians,F,f,smp,ante,Qwen,LLM,1
+Veterinarians,F,f,smp,ante,LLaMA,LLM,1
+Veterinarians,F,f,smp,ante,DeepSeek,LLM,1
+Veterinarians,F,m,cpx,ante,Google,NMT,1
+Veterinarians,F,m,cpx,ante,DeepL,NMT,1
+Veterinarians,F,m,cpx,ante,GPT5,LLM,1
+Veterinarians,F,m,cpx,ante,Claude,LLM,1
+Veterinarians,F,m,cpx,ante,Ministral,LLM,1
+Veterinarians,F,m,cpx,ante,Qwen,LLM,1
+Veterinarians,F,m,cpx,ante,LLaMA,LLM,1
+Veterinarians,F,m,cpx,ante,DeepSeek,LLM,1
+Veterinarians,F,f,cpx,ante,Google,NMT,0
+Veterinarians,F,f,cpx,ante,DeepL,NMT,0
+Veterinarians,F,f,cpx,ante,GPT5,LLM,1
+Veterinarians,F,f,cpx,ante,Claude,LLM,1
+Veterinarians,F,f,cpx,ante,Ministral,LLM,1
+Veterinarians,F,f,cpx,ante,Qwen,LLM,1
+Veterinarians,F,f,cpx,ante,LLaMA,LLM,0
+Veterinarians,F,f,cpx,ante,DeepSeek,LLM,1
+Veterinarians,F,m,smp,post,Google,NMT,1
+Veterinarians,F,m,smp,post,DeepL,NMT,1
+Veterinarians,F,m,smp,post,GPT5,LLM,1
+Veterinarians,F,m,smp,post,Claude,LLM,1
+Veterinarians,F,m,smp,post,Ministral,LLM,1
+Veterinarians,F,m,smp,post,Qwen,LLM,1
+Veterinarians,F,m,smp,post,LLaMA,LLM,1
+Veterinarians,F,m,smp,post,DeepSeek,LLM,1
+Veterinarians,F,f,smp,post,Google,NMT,1
+Veterinarians,F,f,smp,post,DeepL,NMT,1
+Veterinarians,F,f,smp,post,GPT5,LLM,1
+Veterinarians,F,f,smp,post,Claude,LLM,1
+Veterinarians,F,f,smp,post,Ministral,LLM,1
+Veterinarians,F,f,smp,post,Qwen,LLM,1
+Veterinarians,F,f,smp,post,LLaMA,LLM,1
+Veterinarians,F,f,smp,post,DeepSeek,LLM,1
+Veterinarians,F,m,cpx,post,Google,NMT,1
+Veterinarians,F,m,cpx,post,DeepL,NMT,1
+Veterinarians,F,m,cpx,post,GPT5,LLM,1
+Veterinarians,F,m,cpx,post,Claude,LLM,1
+Veterinarians,F,m,cpx,post,Ministral,LLM,1
+Veterinarians,F,m,cpx,post,Qwen,LLM,1
+Veterinarians,F,m,cpx,post,LLaMA,LLM,1
+Veterinarians,F,m,cpx,post,DeepSeek,LLM,1
+Veterinarians,F,f,cpx,post,Google,NMT,1
+Veterinarians,F,f,cpx,post,DeepL,NMT,1
+Veterinarians,F,f,cpx,post,GPT5,LLM,1
+Veterinarians,F,f,cpx,post,Claude,LLM,1
+Veterinarians,F,f,cpx,post,Ministral,LLM,0
+Veterinarians,F,f,cpx,post,Qwen,LLM,1
+Veterinarians,F,f,cpx,post,LLaMA,LLM,0
+Veterinarians,F,f,cpx,post,DeepSeek,LLM,1
+Cashiers,F,m,smp,ante,Google,NMT,1
+Cashiers,F,m,smp,ante,DeepL,NMT,1
+Cashiers,F,m,smp,ante,GPT5,LLM,1
+Cashiers,F,m,smp,ante,Claude,LLM,1
+Cashiers,F,m,smp,ante,Ministral,LLM,0
+Cashiers,F,m,smp,ante,Qwen,LLM,1
+Cashiers,F,m,smp,ante,LLaMA,LLM,1
+Cashiers,F,m,smp,ante,DeepSeek,LLM,1
+Cashiers,F,f,smp,ante,Google,NMT,1
+Cashiers,F,f,smp,ante,DeepL,NMT,1
+Cashiers,F,f,smp,ante,GPT5,LLM,1
+Cashiers,F,f,smp,ante,Claude,LLM,1
+Cashiers,F,f,smp,ante,Ministral,LLM,1
+Cashiers,F,f,smp,ante,Qwen,LLM,1
+Cashiers,F,f,smp,ante,LLaMA,LLM,1
+Cashiers,F,f,smp,ante,DeepSeek,LLM,1
+Cashiers,F,m,cpx,ante,Google,NMT,0
+Cashiers,F,m,cpx,ante,DeepL,NMT,1
+Cashiers,F,m,cpx,ante,GPT5,LLM,1
+Cashiers,F,m,cpx,ante,Claude,LLM,1
+Cashiers,F,m,cpx,ante,Ministral,LLM,0
+Cashiers,F,m,cpx,ante,Qwen,LLM,1
+Cashiers,F,m,cpx,ante,LLaMA,LLM,0
+Cashiers,F,m,cpx,ante,DeepSeek,LLM,1
+Cashiers,F,f,cpx,ante,Google,NMT,1
+Cashiers,F,f,cpx,ante,DeepL,NMT,1
+Cashiers,F,f,cpx,ante,GPT5,LLM,1
+Cashiers,F,f,cpx,ante,Claude,LLM,1
+Cashiers,F,f,cpx,ante,Ministral,LLM,1
+Cashiers,F,f,cpx,ante,Qwen,LLM,1
+Cashiers,F,f,cpx,ante,LLaMA,LLM,1
+Cashiers,F,f,cpx,ante,DeepSeek,LLM,1
+Cashiers,F,m,smp,post,Google,NMT,1
+Cashiers,F,m,smp,post,DeepL,NMT,1
+Cashiers,F,m,smp,post,GPT5,LLM,1
+Cashiers,F,m,smp,post,Claude,LLM,1
+Cashiers,F,m,smp,post,Ministral,LLM,1
+Cashiers,F,m,smp,post,Qwen,LLM,1
+Cashiers,F,m,smp,post,LLaMA,LLM,1
+Cashiers,F,m,smp,post,DeepSeek,LLM,1
+Cashiers,F,f,smp,post,Google,NMT,1
+Cashiers,F,f,smp,post,DeepL,NMT,1
+Cashiers,F,f,smp,post,GPT5,LLM,1
+Cashiers,F,f,smp,post,Claude,LLM,1
+Cashiers,F,f,smp,post,Ministral,LLM,1
+Cashiers,F,f,smp,post,Qwen,LLM,1
+Cashiers,F,f,smp,post,LLaMA,LLM,1
+Cashiers,F,f,smp,post,DeepSeek,LLM,1
+Cashiers,F,m,cpx,post,Google,NMT,1
+Cashiers,F,m,cpx,post,DeepL,NMT,1
+Cashiers,F,m,cpx,post,GPT5,LLM,1
+Cashiers,F,m,cpx,post,Claude,LLM,1
+Cashiers,F,m,cpx,post,Ministral,LLM,1
+Cashiers,F,m,cpx,post,Qwen,LLM,1
+Cashiers,F,m,cpx,post,LLaMA,LLM,1
+Cashiers,F,m,cpx,post,DeepSeek,LLM,1
+Cashiers,F,f,cpx,post,Google,NMT,1
+Cashiers,F,f,cpx,post,DeepL,NMT,1
+Cashiers,F,f,cpx,post,GPT5,LLM,1
+Cashiers,F,f,cpx,post,Claude,LLM,1
+Cashiers,F,f,cpx,post,Ministral,LLM,1
+Cashiers,F,f,cpx,post,Qwen,LLM,1
+Cashiers,F,f,cpx,post,LLaMA,LLM,1
+Cashiers,F,f,cpx,post,DeepSeek,LLM,1
+Editors,F,m,smp,ante,Google,NMT,1
+Editors,F,m,smp,ante,DeepL,NMT,1
+Editors,F,m,smp,ante,GPT5,LLM,1
+Editors,F,m,smp,ante,Claude,LLM,1
+Editors,F,m,smp,ante,Ministral,LLM,1
+Editors,F,m,smp,ante,Qwen,LLM,1
+Editors,F,m,smp,ante,LLaMA,LLM,1
+Editors,F,m,smp,ante,DeepSeek,LLM,1
+Editors,F,f,smp,ante,Google,NMT,1
+Editors,F,f,smp,ante,DeepL,NMT,1
+Editors,F,f,smp,ante,GPT5,LLM,1
+Editors,F,f,smp,ante,Claude,LLM,1
+Editors,F,f,smp,ante,Ministral,LLM,1
+Editors,F,f,smp,ante,Qwen,LLM,1
+Editors,F,f,smp,ante,LLaMA,LLM,1
+Editors,F,f,smp,ante,DeepSeek,LLM,1
+Editors,F,m,cpx,ante,Google,NMT,1
+Editors,F,m,cpx,ante,DeepL,NMT,1
+Editors,F,m,cpx,ante,GPT5,LLM,1
+Editors,F,m,cpx,ante,Claude,LLM,1
+Editors,F,m,cpx,ante,Ministral,LLM,1
+Editors,F,m,cpx,ante,Qwen,LLM,1
+Editors,F,m,cpx,ante,LLaMA,LLM,1
+Editors,F,m,cpx,ante,DeepSeek,LLM,1
+Editors,F,f,cpx,ante,Google,NMT,0
+Editors,F,f,cpx,ante,DeepL,NMT,0
+Editors,F,f,cpx,ante,GPT5,LLM,1
+Editors,F,f,cpx,ante,Claude,LLM,1
+Editors,F,f,cpx,ante,Ministral,LLM,1
+Editors,F,f,cpx,ante,Qwen,LLM,1
+Editors,F,f,cpx,ante,LLaMA,LLM,1
+Editors,F,f,cpx,ante,DeepSeek,LLM,1
+Editors,F,m,smp,post,Google,NMT,1
+Editors,F,m,smp,post,DeepL,NMT,1
+Editors,F,m,smp,post,GPT5,LLM,1
+Editors,F,m,smp,post,Claude,LLM,1
+Editors,F,m,smp,post,Ministral,LLM,1
+Editors,F,m,smp,post,Qwen,LLM,1
+Editors,F,m,smp,post,LLaMA,LLM,1
+Editors,F,m,smp,post,DeepSeek,LLM,1
+Editors,F,f,smp,post,Google,NMT,1
+Editors,F,f,smp,post,DeepL,NMT,1
+Editors,F,f,smp,post,GPT5,LLM,1
+Editors,F,f,smp,post,Claude,LLM,1
+Editors,F,f,smp,post,Ministral,LLM,1
+Editors,F,f,smp,post,Qwen,LLM,1
+Editors,F,f,smp,post,LLaMA,LLM,1
+Editors,F,f,smp,post,DeepSeek,LLM,1
+Editors,F,m,cpx,post,Google,NMT,1
+Editors,F,m,cpx,post,DeepL,NMT,1
+Editors,F,m,cpx,post,GPT5,LLM,1
+Editors,F,m,cpx,post,Claude,LLM,1
+Editors,F,m,cpx,post,Ministral,LLM,1
+Editors,F,m,cpx,post,Qwen,LLM,1
+Editors,F,m,cpx,post,LLaMA,LLM,1
+Editors,F,m,cpx,post,DeepSeek,LLM,1
+Editors,F,f,cpx,post,Google,NMT,1
+Editors,F,f,cpx,post,DeepL,NMT,1
+Editors,F,f,cpx,post,GPT5,LLM,1
+Editors,F,f,cpx,post,Claude,LLM,1
+Editors,F,f,cpx,post,Ministral,LLM,0
+Editors,F,f,cpx,post,Qwen,LLM,1
+Editors,F,f,cpx,post,LLaMA,LLM,0
+Editors,F,f,cpx,post,DeepSeek,LLM,1
+Interpreters and translators,F,m,smp,ante,Google,NMT,1
+Interpreters and translators,F,m,smp,ante,DeepL,NMT,1
+Interpreters and translators,F,m,smp,ante,GPT5,LLM,1
+Interpreters and translators,F,m,smp,ante,Claude,LLM,1
+Interpreters and translators,F,m,smp,ante,Ministral,LLM,1
+Interpreters and translators,F,m,smp,ante,Qwen,LLM,1
+Interpreters and translators,F,m,smp,ante,LLaMA,LLM,1
+Interpreters and translators,F,m,smp,ante,DeepSeek,LLM,1
+Interpreters and translators,F,f,smp,ante,Google,NMT,1
+Interpreters and translators,F,f,smp,ante,DeepL,NMT,1
+Interpreters and translators,F,f,smp,ante,GPT5,LLM,1
+Interpreters and translators,F,f,smp,ante,Claude,LLM,1
+Interpreters and translators,F,f,smp,ante,Ministral,LLM,1
+Interpreters and translators,F,f,smp,ante,Qwen,LLM,1
+Interpreters and translators,F,f,smp,ante,LLaMA,LLM,0
+Interpreters and translators,F,f,smp,ante,DeepSeek,LLM,1
+Interpreters and translators,F,m,cpx,ante,Google,NMT,1
+Interpreters and translators,F,m,cpx,ante,DeepL,NMT,1
+Interpreters and translators,F,m,cpx,ante,GPT5,LLM,1
+Interpreters and translators,F,m,cpx,ante,Claude,LLM,1
+Interpreters and translators,F,m,cpx,ante,Ministral,LLM,1
+Interpreters and translators,F,m,cpx,ante,Qwen,LLM,1
+Interpreters and translators,F,m,cpx,ante,LLaMA,LLM,1
+Interpreters and translators,F,m,cpx,ante,DeepSeek,LLM,1
+Interpreters and translators,F,f,cpx,ante,Google,NMT,0
+Interpreters and translators,F,f,cpx,ante,DeepL,NMT,0
+Interpreters and translators,F,f,cpx,ante,GPT5,LLM,1
+Interpreters and translators,F,f,cpx,ante,Claude,LLM,1
+Interpreters and translators,F,f,cpx,ante,Ministral,LLM,1
+Interpreters and translators,F,f,cpx,ante,Qwen,LLM,1
+Interpreters and translators,F,f,cpx,ante,LLaMA,LLM,1
+Interpreters and translators,F,f,cpx,ante,DeepSeek,LLM,1
+Interpreters and translators,F,m,smp,post,Google,NMT,1
+Interpreters and translators,F,m,smp,post,DeepL,NMT,1
+Interpreters and translators,F,m,smp,post,GPT5,LLM,1
+Interpreters and translators,F,m,smp,post,Claude,LLM,1
+Interpreters and translators,F,m,smp,post,Ministral,LLM,1
+Interpreters and translators,F,m,smp,post,Qwen,LLM,1
+Interpreters and translators,F,m,smp,post,LLaMA,LLM,1
+Interpreters and translators,F,m,smp,post,DeepSeek,LLM,1
+Interpreters and translators,F,f,smp,post,Google,NMT,1
+Interpreters and translators,F,f,smp,post,DeepL,NMT,1
+Interpreters and translators,F,f,smp,post,GPT5,LLM,1
+Interpreters and translators,F,f,smp,post,Claude,LLM,1
+Interpreters and translators,F,f,smp,post,Ministral,LLM,1
+Interpreters and translators,F,f,smp,post,Qwen,LLM,1
+Interpreters and translators,F,f,smp,post,LLaMA,LLM,1
+Interpreters and translators,F,f,smp,post,DeepSeek,LLM,1
+Interpreters and translators,F,m,cpx,post,Google,NMT,1
+Interpreters and translators,F,m,cpx,post,DeepL,NMT,1
+Interpreters and translators,F,m,cpx,post,GPT5,LLM,1
+Interpreters and translators,F,m,cpx,post,Claude,LLM,1
+Interpreters and translators,F,m,cpx,post,Ministral,LLM,1
+Interpreters and translators,F,m,cpx,post,Qwen,LLM,1
+Interpreters and translators,F,m,cpx,post,LLaMA,LLM,1
+Interpreters and translators,F,m,cpx,post,DeepSeek,LLM,1
+Interpreters and translators,F,f,cpx,post,Google,NMT,1
+Interpreters and translators,F,f,cpx,post,DeepL,NMT,1
+Interpreters and translators,F,f,cpx,post,GPT5,LLM,1
+Interpreters and translators,F,f,cpx,post,Claude,LLM,1
+Interpreters and translators,F,f,cpx,post,Ministral,LLM,0
+Interpreters and translators,F,f,cpx,post,Qwen,LLM,1
+Interpreters and translators,F,f,cpx,post,LLaMA,LLM,1
+Interpreters and translators,F,f,cpx,post,DeepSeek,LLM,1
+Psychologists,F,m,smp,ante,Google,NMT,1
+Psychologists,F,m,smp,ante,DeepL,NMT,1
+Psychologists,F,m,smp,ante,GPT5,LLM,1
+Psychologists,F,m,smp,ante,Claude,LLM,1
+Psychologists,F,m,smp,ante,Ministral,LLM,1
+Psychologists,F,m,smp,ante,Qwen,LLM,1
+Psychologists,F,m,smp,ante,LLaMA,LLM,1
+Psychologists,F,m,smp,ante,DeepSeek,LLM,1
+Psychologists,F,f,smp,ante,Google,NMT,1
+Psychologists,F,f,smp,ante,DeepL,NMT,1
+Psychologists,F,f,smp,ante,GPT5,LLM,1
+Psychologists,F,f,smp,ante,Claude,LLM,1
+Psychologists,F,f,smp,ante,Ministral,LLM,1
+Psychologists,F,f,smp,ante,Qwen,LLM,1
+Psychologists,F,f,smp,ante,LLaMA,LLM,1
+Psychologists,F,f,smp,ante,DeepSeek,LLM,1
+Psychologists,F,m,cpx,ante,Google,NMT,0
+Psychologists,F,m,cpx,ante,DeepL,NMT,1
+Psychologists,F,m,cpx,ante,GPT5,LLM,1
+Psychologists,F,m,cpx,ante,Claude,LLM,1
+Psychologists,F,m,cpx,ante,Ministral,LLM,1
+Psychologists,F,m,cpx,ante,Qwen,LLM,1
+Psychologists,F,m,cpx,ante,LLaMA,LLM,1
+Psychologists,F,m,cpx,ante,DeepSeek,LLM,1
+Psychologists,F,f,cpx,ante,Google,NMT,1
+Psychologists,F,f,cpx,ante,DeepL,NMT,1
+Psychologists,F,f,cpx,ante,GPT5,LLM,1
+Psychologists,F,f,cpx,ante,Claude,LLM,1
+Psychologists,F,f,cpx,ante,Ministral,LLM,1
+Psychologists,F,f,cpx,ante,Qwen,LLM,1
+Psychologists,F,f,cpx,ante,LLaMA,LLM,0
+Psychologists,F,f,cpx,ante,DeepSeek,LLM,1
+Psychologists,F,m,smp,post,Google,NMT,1
+Psychologists,F,m,smp,post,DeepL,NMT,1
+Psychologists,F,m,smp,post,GPT5,LLM,1
+Psychologists,F,m,smp,post,Claude,LLM,1
+Psychologists,F,m,smp,post,Ministral,LLM,1
+Psychologists,F,m,smp,post,Qwen,LLM,1
+Psychologists,F,m,smp,post,LLaMA,LLM,1
+Psychologists,F,m,smp,post,DeepSeek,LLM,1
+Psychologists,F,f,smp,post,Google,NMT,1
+Psychologists,F,f,smp,post,DeepL,NMT,1
+Psychologists,F,f,smp,post,GPT5,LLM,1
+Psychologists,F,f,smp,post,Claude,LLM,1
+Psychologists,F,f,smp,post,Ministral,LLM,1
+Psychologists,F,f,smp,post,Qwen,LLM,1
+Psychologists,F,f,smp,post,LLaMA,LLM,1
+Psychologists,F,f,smp,post,DeepSeek,LLM,1
+Psychologists,F,m,cpx,post,Google,NMT,1
+Psychologists,F,m,cpx,post,DeepL,NMT,1
+Psychologists,F,m,cpx,post,GPT5,LLM,1
+Psychologists,F,m,cpx,post,Claude,LLM,1
+Psychologists,F,m,cpx,post,Ministral,LLM,1
+Psychologists,F,m,cpx,post,Qwen,LLM,1
+Psychologists,F,m,cpx,post,LLaMA,LLM,1
+Psychologists,F,m,cpx,post,DeepSeek,LLM,1
+Psychologists,F,f,cpx,post,Google,NMT,1
+Psychologists,F,f,cpx,post,DeepL,NMT,1
+Psychologists,F,f,cpx,post,GPT5,LLM,1
+Psychologists,F,f,cpx,post,Claude,LLM,1
+Psychologists,F,f,cpx,post,Ministral,LLM,1
+Psychologists,F,f,cpx,post,Qwen,LLM,1
+Psychologists,F,f,cpx,post,LLaMA,LLM,0
+Psychologists,F,f,cpx,post,DeepSeek,LLM,1
+Flight attendants ,F,m,smp,ante,Google,NMT,1
+Flight attendants ,F,m,smp,ante,DeepL,NMT,1
+Flight attendants ,F,m,smp,ante,GPT5,LLM,1
+Flight attendants ,F,m,smp,ante,Claude,LLM,1
+Flight attendants ,F,m,smp,ante,Ministral,LLM,0
+Flight attendants ,F,m,smp,ante,Qwen,LLM,1
+Flight attendants ,F,m,smp,ante,LLaMA,LLM,1
+Flight attendants ,F,m,smp,ante,DeepSeek,LLM,1
+Flight attendants ,F,f,smp,ante,Google,NMT,1
+Flight attendants ,F,f,smp,ante,DeepL,NMT,1
+Flight attendants ,F,f,smp,ante,GPT5,LLM,1
+Flight attendants ,F,f,smp,ante,Claude,LLM,1
+Flight attendants ,F,f,smp,ante,Ministral,LLM,1
+Flight attendants ,F,f,smp,ante,Qwen,LLM,1
+Flight attendants ,F,f,smp,ante,LLaMA,LLM,1
+Flight attendants ,F,f,smp,ante,DeepSeek,LLM,1
+Flight attendants ,F,m,cpx,ante,Google,NMT,0
+Flight attendants ,F,m,cpx,ante,DeepL,NMT,0
+Flight attendants ,F,m,cpx,ante,GPT5,LLM,1
+Flight attendants ,F,m,cpx,ante,Claude,LLM,1
+Flight attendants ,F,m,cpx,ante,Ministral,LLM,0
+Flight attendants ,F,m,cpx,ante,Qwen,LLM,1
+Flight attendants ,F,m,cpx,ante,LLaMA,LLM,0
+Flight attendants ,F,m,cpx,ante,DeepSeek,LLM,1
+Flight attendants ,F,f,cpx,ante,Google,NMT,1
+Flight attendants ,F,f,cpx,ante,DeepL,NMT,1
+Flight attendants ,F,f,cpx,ante,GPT5,LLM,1
+Flight attendants ,F,f,cpx,ante,Claude,LLM,1
+Flight attendants ,F,f,cpx,ante,Ministral,LLM,1
+Flight attendants ,F,f,cpx,ante,Qwen,LLM,1
+Flight attendants ,F,f,cpx,ante,LLaMA,LLM,1
+Flight attendants ,F,f,cpx,ante,DeepSeek,LLM,1
+Flight attendants ,F,m,smp,post,Google,NMT,1
+Flight attendants ,F,m,smp,post,DeepL,NMT,1
+Flight attendants ,F,m,smp,post,GPT5,LLM,1
+Flight attendants ,F,m,smp,post,Claude,LLM,1
+Flight attendants ,F,m,smp,post,Ministral,LLM,1
+Flight attendants ,F,m,smp,post,Qwen,LLM,1
+Flight attendants ,F,m,smp,post,LLaMA,LLM,1
+Flight attendants ,F,m,smp,post,DeepSeek,LLM,1
+Flight attendants ,F,f,smp,post,Google,NMT,1
+Flight attendants ,F,f,smp,post,DeepL,NMT,1
+Flight attendants ,F,f,smp,post,GPT5,LLM,1
+Flight attendants ,F,f,smp,post,Claude,LLM,1
+Flight attendants ,F,f,smp,post,Ministral,LLM,1
+Flight attendants ,F,f,smp,post,Qwen,LLM,1
+Flight attendants ,F,f,smp,post,LLaMA,LLM,1
+Flight attendants ,F,f,smp,post,DeepSeek,LLM,1
+Flight attendants ,F,m,cpx,post,Google,NMT,1
+Flight attendants ,F,m,cpx,post,DeepL,NMT,1
+Flight attendants ,F,m,cpx,post,GPT5,LLM,1
+Flight attendants ,F,m,cpx,post,Claude,LLM,1
+Flight attendants ,F,m,cpx,post,Ministral,LLM,0
+Flight attendants ,F,m,cpx,post,Qwen,LLM,1
+Flight attendants ,F,m,cpx,post,LLaMA,LLM,1
+Flight attendants ,F,m,cpx,post,DeepSeek,LLM,1
+Flight attendants ,F,f,cpx,post,Google,NMT,1
+Flight attendants ,F,f,cpx,post,DeepL,NMT,1
+Flight attendants ,F,f,cpx,post,GPT5,LLM,1
+Flight attendants ,F,f,cpx,post,Claude,LLM,1
+Flight attendants ,F,f,cpx,post,Ministral,LLM,1
+Flight attendants ,F,f,cpx,post,Qwen,LLM,1
+Flight attendants ,F,f,cpx,post,LLaMA,LLM,1
+Flight attendants ,F,f,cpx,post,DeepSeek,LLM,1
+Assistants,F,m,smp,ante,Google,NMT,1
+Assistants,F,m,smp,ante,DeepL,NMT,1
+Assistants,F,m,smp,ante,GPT5,LLM,1
+Assistants,F,m,smp,ante,Claude,LLM,1
+Assistants,F,m,smp,ante,Ministral,LLM,1
+Assistants,F,m,smp,ante,Qwen,LLM,1
+Assistants,F,m,smp,ante,LLaMA,LLM,1
+Assistants,F,m,smp,ante,DeepSeek,LLM,1
+Assistants,F,f,smp,ante,Google,NMT,1
+Assistants,F,f,smp,ante,DeepL,NMT,1
+Assistants,F,f,smp,ante,GPT5,LLM,1
+Assistants,F,f,smp,ante,Claude,LLM,1
+Assistants,F,f,smp,ante,Ministral,LLM,1
+Assistants,F,f,smp,ante,Qwen,LLM,1
+Assistants,F,f,smp,ante,LLaMA,LLM,1
+Assistants,F,f,smp,ante,DeepSeek,LLM,1
+Assistants,F,m,cpx,ante,Google,NMT,0
+Assistants,F,m,cpx,ante,DeepL,NMT,1
+Assistants,F,m,cpx,ante,GPT5,LLM,1
+Assistants,F,m,cpx,ante,Claude,LLM,1
+Assistants,F,m,cpx,ante,Ministral,LLM,0
+Assistants,F,m,cpx,ante,Qwen,LLM,1
+Assistants,F,m,cpx,ante,LLaMA,LLM,1
+Assistants,F,m,cpx,ante,DeepSeek,LLM,1
+Assistants,F,f,cpx,ante,Google,NMT,1
+Assistants,F,f,cpx,ante,DeepL,NMT,0
+Assistants,F,f,cpx,ante,GPT5,LLM,1
+Assistants,F,f,cpx,ante,Claude,LLM,1
+Assistants,F,f,cpx,ante,Ministral,LLM,1
+Assistants,F,f,cpx,ante,Qwen,LLM,1
+Assistants,F,f,cpx,ante,LLaMA,LLM,1
+Assistants,F,f,cpx,ante,DeepSeek,LLM,1
+Assistants,F,m,smp,post,Google,NMT,1
+Assistants,F,m,smp,post,DeepL,NMT,1
+Assistants,F,m,smp,post,GPT5,LLM,1
+Assistants,F,m,smp,post,Claude,LLM,1
+Assistants,F,m,smp,post,Ministral,LLM,1
+Assistants,F,m,smp,post,Qwen,LLM,1
+Assistants,F,m,smp,post,LLaMA,LLM,1
+Assistants,F,m,smp,post,DeepSeek,LLM,1
+Assistants,F,f,smp,post,Google,NMT,1
+Assistants,F,f,smp,post,DeepL,NMT,1
+Assistants,F,f,smp,post,GPT5,LLM,1
+Assistants,F,f,smp,post,Claude,LLM,1
+Assistants,F,f,smp,post,Ministral,LLM,1
+Assistants,F,f,smp,post,Qwen,LLM,1
+Assistants,F,f,smp,post,LLaMA,LLM,1
+Assistants,F,f,smp,post,DeepSeek,LLM,1
+Assistants,F,m,cpx,post,Google,NMT,1
+Assistants,F,m,cpx,post,DeepL,NMT,1
+Assistants,F,m,cpx,post,GPT5,LLM,1
+Assistants,F,m,cpx,post,Claude,LLM,1
+Assistants,F,m,cpx,post,Ministral,LLM,1
+Assistants,F,m,cpx,post,Qwen,LLM,1
+Assistants,F,m,cpx,post,LLaMA,LLM,1
+Assistants,F,m,cpx,post,DeepSeek,LLM,1
+Assistants,F,f,cpx,post,Google,NMT,1
+Assistants,F,f,cpx,post,DeepL,NMT,1
+Assistants,F,f,cpx,post,GPT5,LLM,1
+Assistants,F,f,cpx,post,Claude,LLM,1
+Assistants,F,f,cpx,post,Ministral,LLM,1
+Assistants,F,f,cpx,post,Qwen,LLM,1
+Assistants,F,f,cpx,post,LLaMA,LLM,1
+Assistants,F,f,cpx,post,DeepSeek,LLM,1
+Nurses,F,m,smp,ante,Google,NMT,1
+Nurses,F,m,smp,ante,DeepL,NMT,1
+Nurses,F,m,smp,ante,GPT5,LLM,1
+Nurses,F,m,smp,ante,Claude,LLM,1
+Nurses,F,m,smp,ante,Ministral,LLM,0
+Nurses,F,m,smp,ante,Qwen,LLM,1
+Nurses,F,m,smp,ante,LLaMA,LLM,1
+Nurses,F,m,smp,ante,DeepSeek,LLM,0
+Nurses,F,f,smp,ante,Google,NMT,1
+Nurses,F,f,smp,ante,DeepL,NMT,1
+Nurses,F,f,smp,ante,GPT5,LLM,1
+Nurses,F,f,smp,ante,Claude,LLM,1
+Nurses,F,f,smp,ante,Ministral,LLM,1
+Nurses,F,f,smp,ante,Qwen,LLM,1
+Nurses,F,f,smp,ante,LLaMA,LLM,1
+Nurses,F,f,smp,ante,DeepSeek,LLM,1
+Nurses,F,m,cpx,ante,Google,NMT,0
+Nurses,F,m,cpx,ante,DeepL,NMT,0
+Nurses,F,m,cpx,ante,GPT5,LLM,0
+Nurses,F,m,cpx,ante,Claude,LLM,1
+Nurses,F,m,cpx,ante,Ministral,LLM,0
+Nurses,F,m,cpx,ante,Qwen,LLM,1
+Nurses,F,m,cpx,ante,LLaMA,LLM,0
+Nurses,F,m,cpx,ante,DeepSeek,LLM,1
+Nurses,F,f,cpx,ante,Google,NMT,1
+Nurses,F,f,cpx,ante,DeepL,NMT,1
+Nurses,F,f,cpx,ante,GPT5,LLM,1
+Nurses,F,f,cpx,ante,Claude,LLM,1
+Nurses,F,f,cpx,ante,Ministral,LLM,1
+Nurses,F,f,cpx,ante,Qwen,LLM,1
+Nurses,F,f,cpx,ante,LLaMA,LLM,1
+Nurses,F,f,cpx,ante,DeepSeek,LLM,1
+Nurses,F,m,smp,post,Google,NMT,1
+Nurses,F,m,smp,post,DeepL,NMT,1
+Nurses,F,m,smp,post,GPT5,LLM,1
+Nurses,F,m,smp,post,Claude,LLM,1
+Nurses,F,m,smp,post,Ministral,LLM,1
+Nurses,F,m,smp,post,Qwen,LLM,1
+Nurses,F,m,smp,post,LLaMA,LLM,1
+Nurses,F,m,smp,post,DeepSeek,LLM,1
+Nurses,F,f,smp,post,Google,NMT,1
+Nurses,F,f,smp,post,DeepL,NMT,1
+Nurses,F,f,smp,post,GPT5,LLM,1
+Nurses,F,f,smp,post,Claude,LLM,1
+Nurses,F,f,smp,post,Ministral,LLM,1
+Nurses,F,f,smp,post,Qwen,LLM,1
+Nurses,F,f,smp,post,LLaMA,LLM,1
+Nurses,F,f,smp,post,DeepSeek,LLM,1
+Nurses,F,m,cpx,post,Google,NMT,1
+Nurses,F,m,cpx,post,DeepL,NMT,1
+Nurses,F,m,cpx,post,GPT5,LLM,1
+Nurses,F,m,cpx,post,Claude,LLM,1
+Nurses,F,m,cpx,post,Ministral,LLM,0
+Nurses,F,m,cpx,post,Qwen,LLM,1
+Nurses,F,m,cpx,post,LLaMA,LLM,0
+Nurses,F,m,cpx,post,DeepSeek,LLM,0
+Nurses,F,f,cpx,post,Google,NMT,1
+Nurses,F,f,cpx,post,DeepL,NMT,1
+Nurses,F,f,cpx,post,GPT5,LLM,1
+Nurses,F,f,cpx,post,Claude,LLM,1
+Nurses,F,f,cpx,post,Ministral,LLM,1
+Nurses,F,f,cpx,post,Qwen,LLM,1
+Nurses,F,f,cpx,post,LLaMA,LLM,1
+Nurses,F,f,cpx,post,DeepSeek,LLM,1
+Maids and housekeeping cleaners,F,m,smp,ante,Google,NMT,1
+Maids and housekeeping cleaners,F,m,smp,ante,DeepL,NMT,1
+Maids and housekeeping cleaners,F,m,smp,ante,GPT5,LLM,1
+Maids and housekeeping cleaners,F,m,smp,ante,Claude,LLM,1
+Maids and housekeeping cleaners,F,m,smp,ante,Ministral,LLM,0
+Maids and housekeeping cleaners,F,m,smp,ante,Qwen,LLM,1
+Maids and housekeeping cleaners,F,m,smp,ante,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,m,smp,ante,DeepSeek,LLM,0
+Maids and housekeeping cleaners,F,f,smp,ante,Google,NMT,1
+Maids and housekeeping cleaners,F,f,smp,ante,DeepL,NMT,1
+Maids and housekeeping cleaners,F,f,smp,ante,GPT5,LLM,1
+Maids and housekeeping cleaners,F,f,smp,ante,Claude,LLM,1
+Maids and housekeeping cleaners,F,f,smp,ante,Ministral,LLM,1
+Maids and housekeeping cleaners,F,f,smp,ante,Qwen,LLM,1
+Maids and housekeeping cleaners,F,f,smp,ante,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,f,smp,ante,DeepSeek,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,ante,Google,NMT,0
+Maids and housekeeping cleaners,F,m,cpx,ante,DeepL,NMT,0
+Maids and housekeeping cleaners,F,m,cpx,ante,GPT5,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,ante,Claude,LLM,0
+Maids and housekeeping cleaners,F,m,cpx,ante,Ministral,LLM,0
+Maids and housekeeping cleaners,F,m,cpx,ante,Qwen,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,ante,LLaMA,LLM,0
+Maids and housekeeping cleaners,F,m,cpx,ante,DeepSeek,LLM,0
+Maids and housekeeping cleaners,F,f,cpx,ante,Google,NMT,1
+Maids and housekeeping cleaners,F,f,cpx,ante,DeepL,NMT,1
+Maids and housekeeping cleaners,F,f,cpx,ante,GPT5,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,ante,Claude,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,ante,Ministral,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,ante,Qwen,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,ante,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,ante,DeepSeek,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,Google,NMT,1
+Maids and housekeeping cleaners,F,m,smp,post,DeepL,NMT,1
+Maids and housekeeping cleaners,F,m,smp,post,GPT5,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,Claude,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,Ministral,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,Qwen,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,m,smp,post,DeepSeek,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,Google,NMT,1
+Maids and housekeeping cleaners,F,f,smp,post,DeepL,NMT,1
+Maids and housekeeping cleaners,F,f,smp,post,GPT5,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,Claude,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,Ministral,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,Qwen,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,f,smp,post,DeepSeek,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,post,Google,NMT,1
+Maids and housekeeping cleaners,F,m,cpx,post,DeepL,NMT,1
+Maids and housekeeping cleaners,F,m,cpx,post,GPT5,LLM,0
+Maids and housekeeping cleaners,F,m,cpx,post,Claude,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,post,Ministral,LLM,0
+Maids and housekeeping cleaners,F,m,cpx,post,Qwen,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,post,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,m,cpx,post,DeepSeek,LLM,0
+Maids and housekeeping cleaners,F,f,cpx,post,Google,NMT,1
+Maids and housekeeping cleaners,F,f,cpx,post,DeepL,NMT,1
+Maids and housekeeping cleaners,F,f,cpx,post,GPT5,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,post,Claude,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,post,Ministral,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,post,Qwen,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,post,LLaMA,LLM,1
+Maids and housekeeping cleaners,F,f,cpx,post,DeepSeek,LLM,1
+Dietitians,F,m,smp,ante,Google,NMT,1
+Dietitians,F,m,smp,ante,DeepL,NMT,1
+Dietitians,F,m,smp,ante,GPT5,LLM,1
+Dietitians,F,m,smp,ante,Claude,LLM,1
+Dietitians,F,m,smp,ante,Ministral,LLM,0
+Dietitians,F,m,smp,ante,Qwen,LLM,1
+Dietitians,F,m,smp,ante,LLaMA,LLM,1
+Dietitians,F,m,smp,ante,DeepSeek,LLM,1
+Dietitians,F,f,smp,ante,Google,NMT,1
+Dietitians,F,f,smp,ante,DeepL,NMT,1
+Dietitians,F,f,smp,ante,GPT5,LLM,1
+Dietitians,F,f,smp,ante,Claude,LLM,1
+Dietitians,F,f,smp,ante,Ministral,LLM,1
+Dietitians,F,f,smp,ante,Qwen,LLM,1
+Dietitians,F,f,smp,ante,LLaMA,LLM,1
+Dietitians,F,f,smp,ante,DeepSeek,LLM,1
+Dietitians,F,m,cpx,ante,Google,NMT,0
+Dietitians,F,m,cpx,ante,DeepL,NMT,1
+Dietitians,F,m,cpx,ante,GPT5,LLM,1
+Dietitians,F,m,cpx,ante,Claude,LLM,1
+Dietitians,F,m,cpx,ante,Ministral,LLM,0
+Dietitians,F,m,cpx,ante,Qwen,LLM,1
+Dietitians,F,m,cpx,ante,LLaMA,LLM,0
+Dietitians,F,m,cpx,ante,DeepSeek,LLM,1
+Dietitians,F,f,cpx,ante,Google,NMT,1
+Dietitians,F,f,cpx,ante,DeepL,NMT,0
+Dietitians,F,f,cpx,ante,GPT5,LLM,1
+Dietitians,F,f,cpx,ante,Claude,LLM,1
+Dietitians,F,f,cpx,ante,Ministral,LLM,1
+Dietitians,F,f,cpx,ante,Qwen,LLM,1
+Dietitians,F,f,cpx,ante,LLaMA,LLM,1
+Dietitians,F,f,cpx,ante,DeepSeek,LLM,1
+Dietitians,F,m,smp,post,Google,NMT,1
+Dietitians,F,m,smp,post,DeepL,NMT,1
+Dietitians,F,m,smp,post,GPT5,LLM,1
+Dietitians,F,m,smp,post,Claude,LLM,1
+Dietitians,F,m,smp,post,Ministral,LLM,1
+Dietitians,F,m,smp,post,Qwen,LLM,1
+Dietitians,F,m,smp,post,LLaMA,LLM,1
+Dietitians,F,m,smp,post,DeepSeek,LLM,1
+Dietitians,F,f,smp,post,Google,NMT,1
+Dietitians,F,f,smp,post,DeepL,NMT,1
+Dietitians,F,f,smp,post,GPT5,LLM,1
+Dietitians,F,f,smp,post,Claude,LLM,1
+Dietitians,F,f,smp,post,Ministral,LLM,1
+Dietitians,F,f,smp,post,Qwen,LLM,1
+Dietitians,F,f,smp,post,LLaMA,LLM,1
+Dietitians,F,f,smp,post,DeepSeek,LLM,1
+Dietitians,F,m,cpx,post,Google,NMT,1
+Dietitians,F,m,cpx,post,DeepL,NMT,1
+Dietitians,F,m,cpx,post,GPT5,LLM,1
+Dietitians,F,m,cpx,post,Claude,LLM,1
+Dietitians,F,m,cpx,post,Ministral,LLM,1
+Dietitians,F,m,cpx,post,Qwen,LLM,1
+Dietitians,F,m,cpx,post,LLaMA,LLM,1
+Dietitians,F,m,cpx,post,DeepSeek,LLM,1
+Dietitians,F,f,cpx,post,Google,NMT,1
+Dietitians,F,f,cpx,post,DeepL,NMT,1
+Dietitians,F,f,cpx,post,GPT5,LLM,1
+Dietitians,F,f,cpx,post,Claude,LLM,1
+Dietitians,F,f,cpx,post,Ministral,LLM,1
+Dietitians,F,f,cpx,post,Qwen,LLM,1
+Dietitians,F,f,cpx,post,LLaMA,LLM,0
+Dietitians,F,f,cpx,post,DeepSeek,LLM,1
+Secretaries,F,m,smp,ante,Google,NMT,1
+Secretaries,F,m,smp,ante,DeepL,NMT,1
+Secretaries,F,m,smp,ante,GPT5,LLM,1
+Secretaries,F,m,smp,ante,Claude,LLM,1
+Secretaries,F,m,smp,ante,Ministral,LLM,0
+Secretaries,F,m,smp,ante,Qwen,LLM,1
+Secretaries,F,m,smp,ante,LLaMA,LLM,1
+Secretaries,F,m,smp,ante,DeepSeek,LLM,0
+Secretaries,F,f,smp,ante,Google,NMT,1
+Secretaries,F,f,smp,ante,DeepL,NMT,1
+Secretaries,F,f,smp,ante,GPT5,LLM,1
+Secretaries,F,f,smp,ante,Claude,LLM,1
+Secretaries,F,f,smp,ante,Ministral,LLM,1
+Secretaries,F,f,smp,ante,Qwen,LLM,1
+Secretaries,F,f,smp,ante,LLaMA,LLM,1
+Secretaries,F,f,smp,ante,DeepSeek,LLM,1
+Secretaries,F,m,cpx,ante,Google,NMT,0
+Secretaries,F,m,cpx,ante,DeepL,NMT,0
+Secretaries,F,m,cpx,ante,GPT5,LLM,0
+Secretaries,F,m,cpx,ante,Claude,LLM,1
+Secretaries,F,m,cpx,ante,Ministral,LLM,0
+Secretaries,F,m,cpx,ante,Qwen,LLM,1
+Secretaries,F,m,cpx,ante,LLaMA,LLM,0
+Secretaries,F,m,cpx,ante,DeepSeek,LLM,1
+Secretaries,F,f,cpx,ante,Google,NMT,1
+Secretaries,F,f,cpx,ante,DeepL,NMT,1
+Secretaries,F,f,cpx,ante,GPT5,LLM,1
+Secretaries,F,f,cpx,ante,Claude,LLM,1
+Secretaries,F,f,cpx,ante,Ministral,LLM,1
+Secretaries,F,f,cpx,ante,Qwen,LLM,1
+Secretaries,F,f,cpx,ante,LLaMA,LLM,1
+Secretaries,F,f,cpx,ante,DeepSeek,LLM,1
+Secretaries,F,m,smp,post,Google,NMT,1
+Secretaries,F,m,smp,post,DeepL,NMT,1
+Secretaries,F,m,smp,post,GPT5,LLM,1
+Secretaries,F,m,smp,post,Claude,LLM,1
+Secretaries,F,m,smp,post,Ministral,LLM,1
+Secretaries,F,m,smp,post,Qwen,LLM,1
+Secretaries,F,m,smp,post,LLaMA,LLM,1
+Secretaries,F,m,smp,post,DeepSeek,LLM,1
+Secretaries,F,f,smp,post,Google,NMT,1
+Secretaries,F,f,smp,post,DeepL,NMT,1
+Secretaries,F,f,smp,post,GPT5,LLM,1
+Secretaries,F,f,smp,post,Claude,LLM,1
+Secretaries,F,f,smp,post,Ministral,LLM,1
+Secretaries,F,f,smp,post,Qwen,LLM,1
+Secretaries,F,f,smp,post,LLaMA,LLM,1
+Secretaries,F,f,smp,post,DeepSeek,LLM,1
+Secretaries,F,m,cpx,post,Google,NMT,1
+Secretaries,F,m,cpx,post,DeepL,NMT,1
+Secretaries,F,m,cpx,post,GPT5,LLM,1
+Secretaries,F,m,cpx,post,Claude,LLM,1
+Secretaries,F,m,cpx,post,Ministral,LLM,0
+Secretaries,F,m,cpx,post,Qwen,LLM,1
+Secretaries,F,m,cpx,post,LLaMA,LLM,1
+Secretaries,F,m,cpx,post,DeepSeek,LLM,0
+Secretaries,F,f,cpx,post,Google,NMT,1
+Secretaries,F,f,cpx,post,DeepL,NMT,1
+Secretaries,F,f,cpx,post,GPT5,LLM,1
+Secretaries,F,f,cpx,post,Claude,LLM,1
+Secretaries,F,f,cpx,post,Ministral,LLM,1
+Secretaries,F,f,cpx,post,Qwen,LLM,1
+Secretaries,F,f,cpx,post,LLaMA,LLM,1
+Secretaries,F,f,cpx,post,DeepSeek,LLM,1
