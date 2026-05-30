@@ -1,11 +1,10 @@
 # chinese-challenge-set-gender-bias
-A Chinese challenge set for evaluating gender bias in Chinese–Portuguese automated translation (EAMT 2026)
-# Chinese Challenge Set for Gender Bias Evaluation in Automated Translation
+A Chinese challenge set for evaluating gender bias in Chinese–Portuguese automated translation
 
 This repository contains the data and analysis code accompanying the paper:
 
 > **A Chinese Challenge Set to Assess Gender Bias in Automated Translation**  
-> [Author names] — EAMT 2026
+> [Author names
 
 ## Contents
 
