@@ -1,0 +1,46 @@
+﻿id,occupation_cn,occupation_en,total_employed,female_pct,bias_label,masculine_pt,feminine_pt
+1,木匠,Carpenters,1279,4.2,M,carpinteiro,carpinteira
+2,机械工,Machinists,281,4.8,M,mecânico,mecânica
+3,消防员,Firefighters,298,6.2,M,bombeiro,bombeira
+4,飞行员,Aircraft pilots and flight engineers,213,9.6,M,piloto,piloto
+5,出租车司机,Taxi drivers ,514,12.6,M,taxista,taxista
+6,警察,Police officers,678,14.2,M,polícia,polícia
+7,程序员,Computer programmers,334,17.8,M,programador,programadora
+8,主厨,Chefs and head cooks,515,21.6,M,chefe de cozinha,chefe de cozinha
+9,急救员,Paramedics,95,25.3,M,paramédico,paramédica
+10,洗碗工,Dishwashers,277,26.9,M,lavador,lavadora
+11,建筑师,Architects,209,27.4,M,arquiteto,arquiteta
+12,总裁,Chief executives,1728,33,M,CEO,CEO
+13,公交车司机,"Bus drivers, transit and intercity ",271,35.8,M,motorista de autocarro,motorista de autocarro
+14,清洁工,Janitors and building cleaners,2304,35.9,M,empregado de limpeza,empregada de limpeza
+15,牙医,Dentist,169,38.8,M,dentista,dentista
+16,律师,Lawyers,1146,42,N,advogado,advogada
+17,厨师,Cooks,2005,42.5,N,cozinheiro,cozinheira
+18,摄影师,Photographers,210,43.5,N,fotógrafo,fotógrafa
+19,教练,Coaches and scouts ,340,48.5,N,treinador,treinadora
+20,教授,Postsecondary teachers ,1072,49.9,N,professor,professora
+21,艺术家,Artists,318,53.8,N,artista,artista
+22,医学研究员,Medical scientists,127,54,N,investigador médico,investigadora médica
+23,调酒师,Bartenders,450,54.3,N,barman,barman
+24,生物学家,Biological scientists,105,54.7,N,biólogo,bióloga
+25,电子装配工,"Electrical, electronics, and electromechanical assemblers",115,54.9,N,montador de eletrónicos,montadora de eletrónicos
+26,销售员,Retail salespersons,2734,47.5,N,vendedor,vendedora
+27,房地产经纪人,Real estate brokers and sales agents,1016,56.7,N,agente imobiliário,agente imobiliária
+28,会计,accountant,1778,57.2,N,contabilista,contabilista
+29,审计,auditor,1778,57.2,N,auditor,auditora
+30,药剂师,Pharmacists,326,59.7,N,farmacêutico,farmacêutica
+31,老师,Teacher,3632,77.7,F,professor,professora
+32,作家,Writers and authors ,257,64.7,F,escritor,escritora
+33,面包师,Bakers,243,67.1,F,padeiro,padeira
+34,服务员,Waiters and waitresses,1786,67.8,F,empregado de mesa,empregada de mesa
+35,兽医,Veterinarians,98,68.6,F,veterinário,veterinária
+36,收银员,Cashiers,2569,68.9,F,operador de caixa,operadora de caixa
+37,编辑,Editors,132,72.6,F,editor,editora
+38,翻译,Interpreters and translators,92,74.8,F,tradutor,tradutora
+39,心理医生,Psychologists,215,74,F,psicólogo,psicóloga
+40,空乘,Flight attendants ,129,77.2,F,comissário de bordo,comissária de bordo
+41,助理,Assistants,1758,91.4,F,assistente,assistente
+42,护士,Nurses,3571,86.8,F,enfermeiro,enfermeira
+43,家政,Maids and housekeeping cleaners,1413,87.7,F,empregado doméstico,empregada doméstica
+44,营养师,Dietitians,142,92.1,F,nutricionista,nutricionista
+45,秘书,Secretaries,1758,91.4,F,secretário,secretária
